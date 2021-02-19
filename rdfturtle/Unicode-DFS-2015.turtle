@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "N/A" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:38:38" ;
+                                        spdx:timestamp      "2021-02-19 - 06:20:42" ;
                                         spdx:url            "https://web.archive.org/web/20151224134844/http://unicode.org/copyright.html"
                                       ] ;
         rdfs:seeAlso                  "https://web.archive.org/web/20151224134844/http://unicode.org/copyright.html" ;

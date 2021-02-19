@@ -9,8 +9,19 @@
     <spdx:name>Open Data Commons Open Database License v1.0</spdx:name>
     <rdfs:crossRef>
       <spdx:CrossRef>
+        <spdx:order>1</spdx:order>
+        <spdx:timestamp>2021-02-19 - 06:12:52</spdx:timestamp>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://opendatacommons.org/licenses/odbl/1-0/</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
         <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 05:31:01</spdx:timestamp>
+        <spdx:timestamp>2021-02-19 - 06:12:52</spdx:timestamp>
         <spdx:match>true</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>false</spdx:isLive>
@@ -19,17 +30,6 @@
       </spdx:CrossRef>
     </rdfs:crossRef>
     <rdfs:seeAlso>https://opendatacommons.org/licenses/odbl/1-0/</rdfs:seeAlso>
-    <rdfs:crossRef>
-      <spdx:CrossRef>
-        <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 05:31:02</spdx:timestamp>
-        <spdx:match>true</spdx:match>
-        <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
-        <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://opendatacommons.org/licenses/odbl/1-0/</spdx:url>
-      </spdx:CrossRef>
-    </rdfs:crossRef>
     <spdx:isFsfLibre>true</spdx:isFsfLibre>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; &lt;&lt;var;name="header1";original="";match="#*"&gt;&gt;
 

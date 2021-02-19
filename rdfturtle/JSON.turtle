@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:36:16" ;
+                                        spdx:timestamp      "2021-02-19 - 06:18:16" ;
                                         spdx:url            "http://www.json.org/license.html"
                                       ] ;
         rdfs:seeAlso                  "http://www.json.org/license.html" ;

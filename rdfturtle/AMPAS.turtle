@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:34:53" ;
+                                        spdx:timestamp      "2021-02-19 - 06:16:49" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/BSD#AMPASBSD"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/BSD#AMPASBSD" ;

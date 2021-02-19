@@ -21,21 +21,8 @@ THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT WARRANTY. ANY EXPRESS OR IMPLIED WA
     <spdx:name>Eiffel Forum License v1.0</spdx:name>
     <rdfs:crossRef>
       <spdx:CrossRef>
-        <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 05:37:52</spdx:timestamp>
-        <spdx:match>true</spdx:match>
-        <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
-        <spdx:isValid>true</spdx:isValid>
-        <spdx:url>http://www.eiffel-nice.org/license/forum.txt</spdx:url>
-      </spdx:CrossRef>
-    </rdfs:crossRef>
-    <rdfs:seeAlso>https://opensource.org/licenses/EFL-1.0</rdfs:seeAlso>
-    <spdx:licenseId>EFL-1.0</spdx:licenseId>
-    <rdfs:crossRef>
-      <spdx:CrossRef>
         <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 05:37:52</spdx:timestamp>
+        <spdx:timestamp>2021-02-19 - 06:19:53</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>
@@ -43,7 +30,20 @@ THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT WARRANTY. ANY EXPRESS OR IMPLIED WA
         <spdx:url>https://opensource.org/licenses/EFL-1.0</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
+    <rdfs:seeAlso>https://opensource.org/licenses/EFL-1.0</rdfs:seeAlso>
+    <spdx:licenseId>EFL-1.0</spdx:licenseId>
     <rdfs:seeAlso>http://www.eiffel-nice.org/license/forum.txt</rdfs:seeAlso>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>0</spdx:order>
+        <spdx:timestamp>2021-02-19 - 06:19:52</spdx:timestamp>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>http://www.eiffel-nice.org/license/forum.txt</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
     <spdx:licenseText>Eiffel Forum License, version 1
 
 Permission is hereby granted to use, copy, modify and/or distribute this package, provided that:

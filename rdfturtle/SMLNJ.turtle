@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:35:16" ;
+                                        spdx:timestamp      "2021-02-19 - 06:17:12" ;
                                         spdx:url            "https://www.smlnj.org/license.html"
                                       ] ;
         rdfs:seeAlso                  "https://www.smlnj.org/license.html" ;

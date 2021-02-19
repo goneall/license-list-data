@@ -1,23 +1,23 @@
-_:B6a9f2f52X2D8a9eX2D4d73X2D8e3cX2D5fd5c0998f91 <http://spdx.org/rdf/terms#order> "0" .
-_:B6a9f2f52X2D8a9eX2D4d73X2D8e3cX2D5fd5c0998f91 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 05:32:50" .
-_:B6a9f2f52X2D8a9eX2D4d73X2D8e3cX2D5fd5c0998f91 <http://spdx.org/rdf/terms#match> "false" .
-_:B6a9f2f52X2D8a9eX2D4d73X2D8e3cX2D5fd5c0998f91 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:B6a9f2f52X2D8a9eX2D4d73X2D8e3cX2D5fd5c0998f91 <http://spdx.org/rdf/terms#isLive> "true" .
-_:B6a9f2f52X2D8a9eX2D4d73X2D8e3cX2D5fd5c0998f91 <http://spdx.org/rdf/terms#isValid> "true" .
-_:B6a9f2f52X2D8a9eX2D4d73X2D8e3cX2D5fd5c0998f91 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#CMU_Style" .
-_:B6a9f2f52X2D8a9eX2D4d73X2D8e3cX2D5fd5c0998f91 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:Bbd92ebdeX2D6030X2D4ae3X2D9105X2D2d07c5259c2e <http://spdx.org/rdf/terms#order> "1" .
-_:Bbd92ebdeX2D6030X2D4ae3X2D9105X2D2d07c5259c2e <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 05:32:51" .
-_:Bbd92ebdeX2D6030X2D4ae3X2D9105X2D2d07c5259c2e <http://spdx.org/rdf/terms#match> "false" .
-_:Bbd92ebdeX2D6030X2D4ae3X2D9105X2D2d07c5259c2e <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:Bbd92ebdeX2D6030X2D4ae3X2D9105X2D2d07c5259c2e <http://spdx.org/rdf/terms#isLive> "true" .
-_:Bbd92ebdeX2D6030X2D4ae3X2D9105X2D2d07c5259c2e <http://spdx.org/rdf/terms#isValid> "true" .
-_:Bbd92ebdeX2D6030X2D4ae3X2D9105X2D2d07c5259c2e <http://spdx.org/rdf/terms#url> "https://github.com/python-pillow/Pillow/blob/fffb426092c8db24a5f4b6df243a8a3c01fb63cd/LICENSE" .
-_:Bbd92ebdeX2D6030X2D4ae3X2D9105X2D2d07c5259c2e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Becd8a6e6X2Df539X2D4a24X2D8348X2D02098d8f5bd5 <http://spdx.org/rdf/terms#order> "1" .
+_:Becd8a6e6X2Df539X2D4a24X2D8348X2D02098d8f5bd5 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 06:14:45" .
+_:Becd8a6e6X2Df539X2D4a24X2D8348X2D02098d8f5bd5 <http://spdx.org/rdf/terms#match> "false" .
+_:Becd8a6e6X2Df539X2D4a24X2D8348X2D02098d8f5bd5 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:Becd8a6e6X2Df539X2D4a24X2D8348X2D02098d8f5bd5 <http://spdx.org/rdf/terms#isLive> "true" .
+_:Becd8a6e6X2Df539X2D4a24X2D8348X2D02098d8f5bd5 <http://spdx.org/rdf/terms#isValid> "true" .
+_:Becd8a6e6X2Df539X2D4a24X2D8348X2D02098d8f5bd5 <http://spdx.org/rdf/terms#url> "https://github.com/python-pillow/Pillow/blob/fffb426092c8db24a5f4b6df243a8a3c01fb63cd/LICENSE" .
+_:Becd8a6e6X2Df539X2D4a24X2D8348X2D02098d8f5bd5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B433c09a4X2D27d5X2D4b27X2DaeebX2Dbf9ecd3388c2 <http://spdx.org/rdf/terms#order> "0" .
+_:B433c09a4X2D27d5X2D4b27X2DaeebX2Dbf9ecd3388c2 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 06:14:45" .
+_:B433c09a4X2D27d5X2D4b27X2DaeebX2Dbf9ecd3388c2 <http://spdx.org/rdf/terms#match> "false" .
+_:B433c09a4X2D27d5X2D4b27X2DaeebX2Dbf9ecd3388c2 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:B433c09a4X2D27d5X2D4b27X2DaeebX2Dbf9ecd3388c2 <http://spdx.org/rdf/terms#isLive> "true" .
+_:B433c09a4X2D27d5X2D4b27X2DaeebX2Dbf9ecd3388c2 <http://spdx.org/rdf/terms#isValid> "true" .
+_:B433c09a4X2D27d5X2D4b27X2DaeebX2Dbf9ecd3388c2 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#CMU_Style" .
+_:B433c09a4X2D27d5X2D4b27X2DaeebX2Dbf9ecd3388c2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/MIT-CMU> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"<copyright notice>\";match=\".{0,1000}\">><<beginOptional>> By obtaining, using, and/or copying this software and/or its associated documentation, you agree that you have read, understood, and will comply with the following terms and conditions:<<endOptional>>\n\nPermission to use, copy, modify<<beginOptional>>, <<endOptional>> and distribute this software and its<<beginOptional>> associated<<endOptional>> documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appears in all copies<<beginOptional>>, <<endOptional>> and that both that copyright notice and this permission notice appear in supporting documentation, and that the name of <<var;name=\"copyrightHolder1\";original=\"the copyright holder\";match=\".+\">> not be used in advertising or publicity pertaining to distribution of the software without specific<<beginOptional>>, <<endOptional>> written permission.\n\n<<var;name=\"copyrightHolder2\";original=\"THE COPYRIGHT HOLDER\";match=\".+\">> <<var;name=\"disclaim\";original=\"DISCLAIM\";match=\"DISCLAIM(S)?\">> ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL <<var;name=\"copyrightHolder3\";original=\"THE COPYRIGHT HOLDER\";match=\".+\">> BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM<<beginOptional>> THE<<endOptional>> LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE." .
 <http://spdx.org/licenses/MIT-CMU> <http://spdx.org/rdf/terms#licenseText> "<copyright notice>\n\nBy obtaining, using, and/or copying this software and/or its associated documentation, you agree that you have read, understood, and will comply with the following terms and conditions:\n\nPermission to use, copy, modify, and distribute this software and its associated documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appears in all copies, and that both that copyright notice and this permission notice appear in supporting documentation, and that the name of the copyright holder not be used in advertising or publicity pertaining to distribution of the software without specific, written permission.\n\nTHE COPYRIGHT HOLDER DISCLAIM ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM THE LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.\n" .
-<http://spdx.org/licenses/MIT-CMU> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bbd92ebdeX2D6030X2D4ae3X2D9105X2D2d07c5259c2e .
-<http://spdx.org/licenses/MIT-CMU> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B6a9f2f52X2D8a9eX2D4d73X2D8e3cX2D5fd5c0998f91 .
+<http://spdx.org/licenses/MIT-CMU> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Becd8a6e6X2Df539X2D4a24X2D8348X2D02098d8f5bd5 .
+<http://spdx.org/licenses/MIT-CMU> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B433c09a4X2D27d5X2D4b27X2DaeebX2Dbf9ecd3388c2 .
 <http://spdx.org/licenses/MIT-CMU> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://github.com/python-pillow/Pillow/blob/fffb426092c8db24a5f4b6df243a8a3c01fb63cd/LICENSE" .
 <http://spdx.org/licenses/MIT-CMU> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#CMU_Style" .
 <http://spdx.org/licenses/MIT-CMU> <http://spdx.org/rdf/terms#name> "CMU License" .

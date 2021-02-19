@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:33:03" ;
+                                        spdx:timestamp      "2021-02-19 - 06:14:56" ;
                                         spdx:url            "http://www.osetfoundation.org/public-license"
                                       ] ;
         rdfs:crossRef                 [ a                   spdx:CrossRef ;
@@ -20,7 +20,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "1" ;
-                                        spdx:timestamp      "2021-02-19 - 05:33:06" ;
+                                        spdx:timestamp      "2021-02-19 - 06:14:57" ;
                                         spdx:url            "https://opensource.org/licenses/OPL-2.1"
                                       ] ;
         rdfs:seeAlso                  "https://opensource.org/licenses/OPL-2.1" , "http://www.osetfoundation.org/public-license" ;

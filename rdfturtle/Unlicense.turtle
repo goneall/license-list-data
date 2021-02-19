@@ -12,7 +12,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:40:53" ;
+                                        spdx:timestamp      "2021-02-19 - 06:22:57" ;
                                         spdx:url            "https://unlicense.org/"
                                       ] ;
         rdfs:seeAlso                  "https://unlicense.org/" ;

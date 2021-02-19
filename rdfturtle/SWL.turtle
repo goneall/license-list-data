@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:40:58" ;
+                                        spdx:timestamp      "2021-02-19 - 06:23:02" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/SWL"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/SWL" ;

@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:38:43" ;
+                                        spdx:timestamp      "2021-02-19 - 06:20:46" ;
                                         spdx:url            "https://opensource.org/licenses/NTP"
                                       ] ;
         rdfs:seeAlso                  "https://opensource.org/licenses/NTP" ;

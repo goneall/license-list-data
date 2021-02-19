@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "1" ;
-                                        spdx:timestamp      "2021-02-19 - 05:32:09" ;
+                                        spdx:timestamp      "2021-02-19 - 06:14:04" ;
                                         spdx:url            "https://opensource.org/licenses/NCSA"
                                       ] ;
         rdfs:crossRef                 [ a                   spdx:CrossRef ;
@@ -20,7 +20,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:32:08" ;
+                                        spdx:timestamp      "2021-02-19 - 06:14:03" ;
                                         spdx:url            "http://otm.illinois.edu/uiuc_openSource"
                                       ] ;
         rdfs:seeAlso                  "http://otm.illinois.edu/uiuc_openSource" , "https://opensource.org/licenses/NCSA" ;

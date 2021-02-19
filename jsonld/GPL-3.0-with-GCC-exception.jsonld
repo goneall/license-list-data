@@ -7,7 +7,7 @@
     "isWayBackLink" : "false",
     "match" : "false",
     "order" : "0",
-    "timestamp" : "2021-02-19 - 05:31:32",
+    "timestamp" : "2021-02-19 - 06:13:25",
     "url" : "https://www.gnu.org/licenses/gcc-exception-3.1.html"
   }, {
     "@id" : "http://spdx.org/licenses/GPL-3.0-with-GCC-exception",
@@ -44,10 +44,6 @@
     "url" : {
       "@id" : "http://spdx.org/rdf/terms#url"
     },
-    "crossRef" : {
-      "@id" : "http://www.w3.org/2000/01/rdf-schema#crossRef",
-      "@type" : "@id"
-    },
     "comment" : {
       "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
     },
@@ -71,6 +67,10 @@
     },
     "licenseText" : {
       "@id" : "http://spdx.org/rdf/terms#licenseText"
+    },
+    "crossRef" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#crossRef",
+      "@type" : "@id"
     },
     "spdx" : "http://spdx.org/rdf/terms#",
     "doap" : "http://usefulinc.com/ns/doap#",

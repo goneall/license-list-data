@@ -9,9 +9,9 @@
                                         spdx:isLive         "true" ;
                                         spdx:isValid        "true" ;
                                         spdx:isWayBackLink  "false" ;
-                                        spdx:match          "false" ;
+                                        spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:41:06" ;
+                                        spdx:timestamp      "2021-02-19 - 06:23:05" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/Xinetd_License"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/Xinetd_License" ;

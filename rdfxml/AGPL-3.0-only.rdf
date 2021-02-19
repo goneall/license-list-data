@@ -255,12 +255,10 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License along with this program. If not, see &lt;https://www.gnu.org/licenses/&gt;</spdx:standardLicenseHeader>
-    <spdx:isOsiApproved>true</spdx:isOsiApproved>
-    <spdx:licenseId>AGPL-3.0-only</spdx:licenseId>
     <rdfs:crossRef>
       <spdx:CrossRef>
         <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 05:37:27</spdx:timestamp>
+        <spdx:timestamp>2021-02-19 - 06:19:26</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>
@@ -268,6 +266,8 @@ You should have received a copy of the GNU Affero General Public License along w
         <spdx:url>https://www.gnu.org/licenses/agpl.txt</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
+    <spdx:isOsiApproved>true</spdx:isOsiApproved>
+    <spdx:licenseId>AGPL-3.0-only</spdx:licenseId>
     <rdfs:seeAlso>https://www.gnu.org/licenses/agpl.txt</rdfs:seeAlso>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; GNU AFFERO GENERAL PUBLIC LICENSE
 
@@ -519,7 +519,7 @@ You should also get your employer (if you work as a programmer) or school, if an
     <rdfs:crossRef>
       <spdx:CrossRef>
         <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 05:37:27</spdx:timestamp>
+        <spdx:timestamp>2021-02-19 - 06:19:26</spdx:timestamp>
         <spdx:match>true</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>

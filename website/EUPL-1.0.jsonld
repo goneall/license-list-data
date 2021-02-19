@@ -7,7 +7,7 @@
     "isWayBackLink" : "false",
     "match" : "false",
     "order" : "1",
-    "timestamp" : "2021-02-19 - 05:39:09",
+    "timestamp" : "2021-02-19 - 06:21:14",
     "url" : "http://ec.europa.eu/idabc/servlets/Doc027f.pdf?id=31096"
   }, {
     "@id" : "_:b1",
@@ -17,7 +17,7 @@
     "isWayBackLink" : "false",
     "match" : "false",
     "order" : "0",
-    "timestamp" : "2021-02-19 - 05:39:07",
+    "timestamp" : "2021-02-19 - 06:21:13",
     "url" : "http://ec.europa.eu/idabc/en/document/7330.html"
   }, {
     "@id" : "http://spdx.org/licenses/EUPL-1.0",
@@ -31,12 +31,12 @@
     "seeAlso" : [ "http://ec.europa.eu/idabc/servlets/Doc027f.pdf?id=31096", "http://ec.europa.eu/idabc/en/document/7330.html" ]
   } ],
   "@context" : {
-    "comment" : {
-      "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
-    },
     "crossRef" : {
       "@id" : "http://www.w3.org/2000/01/rdf-schema#crossRef",
       "@type" : "@id"
+    },
+    "comment" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
     },
     "licenseText" : {
       "@id" : "http://spdx.org/rdf/terms#licenseText"

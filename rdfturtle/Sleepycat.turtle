@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:40:34" ;
+                                        spdx:timestamp      "2021-02-19 - 06:22:38" ;
                                         spdx:url            "https://opensource.org/licenses/Sleepycat"
                                       ] ;
         rdfs:seeAlso                  "https://opensource.org/licenses/Sleepycat" ;

@@ -12,7 +12,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:31:51" ;
+                                        spdx:timestamp      "2021-02-19 - 06:13:45" ;
                                         spdx:url            "http://ac-archive.sourceforge.net/doc/copyright.html"
                                       ] ;
         rdfs:seeAlso                  "http://ac-archive.sourceforge.net/doc/copyright.html" ;

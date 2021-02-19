@@ -9,19 +9,19 @@
                                         spdx:isLive         "true" ;
                                         spdx:isValid        "true" ;
                                         spdx:isWayBackLink  "false" ;
-                                        spdx:match          "false" ;
-                                        spdx:order          "1" ;
-                                        spdx:timestamp      "2021-02-19 - 05:34:02" ;
-                                        spdx:url            "http://sam.zoy.org/wtfpl/COPYING"
+                                        spdx:match          "true" ;
+                                        spdx:order          "0" ;
+                                        spdx:timestamp      "2021-02-19 - 06:15:57" ;
+                                        spdx:url            "http://www.wtfpl.net/about/"
                                       ] ;
         rdfs:crossRef                 [ a                   spdx:CrossRef ;
                                         spdx:isLive         "true" ;
                                         spdx:isValid        "true" ;
                                         spdx:isWayBackLink  "false" ;
-                                        spdx:match          "true" ;
-                                        spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:34:01" ;
-                                        spdx:url            "http://www.wtfpl.net/about/"
+                                        spdx:match          "false" ;
+                                        spdx:order          "1" ;
+                                        spdx:timestamp      "2021-02-19 - 06:15:58" ;
+                                        spdx:url            "http://sam.zoy.org/wtfpl/COPYING"
                                       ] ;
         rdfs:seeAlso                  "http://sam.zoy.org/wtfpl/COPYING" , "http://www.wtfpl.net/about/" ;
         spdx:isFsfLibre               "true" ;

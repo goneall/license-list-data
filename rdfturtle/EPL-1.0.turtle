@@ -12,7 +12,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "1" ;
-                                        spdx:timestamp      "2021-02-19 - 05:38:48" ;
+                                        spdx:timestamp      "2021-02-19 - 06:20:51" ;
                                         spdx:url            "https://opensource.org/licenses/EPL-1.0"
                                       ] ;
         rdfs:crossRef                 [ a                   spdx:CrossRef ;
@@ -21,7 +21,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 05:38:47" ;
+                                        spdx:timestamp      "2021-02-19 - 06:20:51" ;
                                         spdx:url            "http://www.eclipse.org/legal/epl-v10.html"
                                       ] ;
         rdfs:seeAlso                  "https://opensource.org/licenses/EPL-1.0" , "http://www.eclipse.org/legal/epl-v10.html" ;
