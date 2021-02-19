@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:09:28" ;
+                                        spdx:timestamp      "2021-02-19 - 05:32:19" ;
                                         spdx:url            "http://vimdoc.sourceforge.net/htmldoc/uganda.html"
                                       ] ;
         rdfs:seeAlso                  "http://vimdoc.sourceforge.net/htmldoc/uganda.html" ;

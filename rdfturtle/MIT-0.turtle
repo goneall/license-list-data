@@ -12,7 +12,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "2" ;
-                                        spdx:timestamp      "2021-02-19 - 04:13:14" ;
+                                        spdx:timestamp      "2021-02-19 - 05:36:10" ;
                                         spdx:url            "https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE"
                                       ] ;
         rdfs:crossRef                 [ a                   spdx:CrossRef ;
@@ -21,7 +21,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "1" ;
-                                        spdx:timestamp      "2021-02-19 - 04:13:13" ;
+                                        spdx:timestamp      "2021-02-19 - 05:36:09" ;
                                         spdx:url            "https://romanrm.net/mit-zero"
                                       ] ;
         rdfs:crossRef                 [ a                   spdx:CrossRef ;
@@ -30,7 +30,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:13:13" ;
+                                        spdx:timestamp      "2021-02-19 - 05:36:09" ;
                                         spdx:url            "https://github.com/aws/mit-0"
                                       ] ;
         rdfs:seeAlso                  "https://romanrm.net/mit-zero" , "https://github.com/aws/mit-0" , "https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE" ;

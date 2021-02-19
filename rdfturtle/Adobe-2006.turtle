@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:13:25" ;
+                                        spdx:timestamp      "2021-02-19 - 05:36:20" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/AdobeLicense"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/AdobeLicense" ;

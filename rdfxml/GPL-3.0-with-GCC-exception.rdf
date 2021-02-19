@@ -4,13 +4,10 @@
     xmlns:doap="http://usefulinc.com/ns/doap#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:License rdf:about="http://spdx.org/licenses/GPL-3.0-with-GCC-exception">
-    <rdfs:comment>DEPRECATED: Use license expression including main license, "WITH" operator, and identifier: GCC-exception-3.1</rdfs:comment>
-    <spdx:isDeprecatedLicenseId>true</spdx:isDeprecatedLicenseId>
-    <spdx:licenseId>GPL-3.0-with-GCC-exception</spdx:licenseId>
     <rdfs:crossRef>
       <spdx:CrossRef>
         <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:08:42</spdx:timestamp>
+        <spdx:timestamp>2021-02-19 - 05:31:32</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>
@@ -18,6 +15,9 @@
         <spdx:url>https://www.gnu.org/licenses/gcc-exception-3.1.html</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
+    <rdfs:comment>DEPRECATED: Use license expression including main license, "WITH" operator, and identifier: GCC-exception-3.1</rdfs:comment>
+    <spdx:isDeprecatedLicenseId>true</spdx:isDeprecatedLicenseId>
+    <spdx:licenseId>GPL-3.0-with-GCC-exception</spdx:licenseId>
     <rdfs:seeAlso>https://www.gnu.org/licenses/gcc-exception-3.1.html</rdfs:seeAlso>
     <spdx:standardLicenseTemplate>﻿insert GPL v3 text here&lt;&lt;beginOptional&gt;&gt; GCC RUNTIME LIBRARY EXCEPTION
 

@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:10:40" ;
+                                        spdx:timestamp      "2021-02-19 - 05:33:33" ;
                                         spdx:url            "https://creativecommons.org/licenses/by-nc/2.0/legalcode"
                                       ] ;
         rdfs:seeAlso                  "https://creativecommons.org/licenses/by-nc/2.0/legalcode" ;

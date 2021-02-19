@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:10:37" ;
+                                        spdx:timestamp      "2021-02-19 - 05:33:29" ;
                                         spdx:url            "http://www.codeproject.com/info/cpol10.aspx"
                                       ] ;
         rdfs:seeAlso                  "http://www.codeproject.com/info/cpol10.aspx" ;

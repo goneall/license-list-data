@@ -12,7 +12,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:12:50" ;
+                                        spdx:timestamp      "2021-02-19 - 05:35:43" ;
                                         spdx:url            "https://solderpad.org/licenses/SHL-0.51/"
                                       ] ;
         rdfs:seeAlso                  "https://solderpad.org/licenses/SHL-0.51/" ;

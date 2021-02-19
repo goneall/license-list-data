@@ -1,27 +1,27 @@
+_:Bec7e4c14X2Db827X2D45c8X2D917aX2D763ac309e6dd <http://spdx.org/rdf/terms#order> "1" .
+_:Bec7e4c14X2Db827X2D45c8X2D917aX2D763ac309e6dd <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 05:33:19" .
+_:Bec7e4c14X2Db827X2D45c8X2D917aX2D763ac309e6dd <http://spdx.org/rdf/terms#match> "true" .
+_:Bec7e4c14X2Db827X2D45c8X2D917aX2D763ac309e6dd <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:Bec7e4c14X2Db827X2D45c8X2D917aX2D763ac309e6dd <http://spdx.org/rdf/terms#isLive> "true" .
+_:Bec7e4c14X2Db827X2D45c8X2D917aX2D763ac309e6dd <http://spdx.org/rdf/terms#isValid> "true" .
+_:Bec7e4c14X2Db827X2D45c8X2D917aX2D763ac309e6dd <http://spdx.org/rdf/terms#url> "https://opensource.org/licenses/Zlib" .
+_:Bec7e4c14X2Db827X2D45c8X2D917aX2D763ac309e6dd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B65c1640fX2D5e5bX2D4c31X2D9c81X2Dd0d52b05b689 <http://spdx.org/rdf/terms#order> "0" .
+_:B65c1640fX2D5e5bX2D4c31X2D9c81X2Dd0d52b05b689 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 05:33:19" .
+_:B65c1640fX2D5e5bX2D4c31X2D9c81X2Dd0d52b05b689 <http://spdx.org/rdf/terms#match> "false" .
+_:B65c1640fX2D5e5bX2D4c31X2D9c81X2Dd0d52b05b689 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:B65c1640fX2D5e5bX2D4c31X2D9c81X2Dd0d52b05b689 <http://spdx.org/rdf/terms#isLive> "true" .
+_:B65c1640fX2D5e5bX2D4c31X2D9c81X2Dd0d52b05b689 <http://spdx.org/rdf/terms#isValid> "true" .
+_:B65c1640fX2D5e5bX2D4c31X2D9c81X2Dd0d52b05b689 <http://spdx.org/rdf/terms#url> "http://www.zlib.net/zlib_license.html" .
+_:B65c1640fX2D5e5bX2D4c31X2D9c81X2Dd0d52b05b689 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/Zlib> <http://spdx.org/rdf/terms#name> "zlib License" .
 <http://spdx.org/licenses/Zlib> <http://spdx.org/rdf/terms#isOsiApproved> "true" .
 <http://spdx.org/licenses/Zlib> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://opensource.org/licenses/Zlib" .
 <http://spdx.org/licenses/Zlib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#License> .
 <http://spdx.org/licenses/Zlib> <http://spdx.org/rdf/terms#licenseText> "zlib License\n\nThis software is provided 'as-is', without any express or implied warranty.  In no event will the authors be held liable for any damages arising from the use of this software.\n\nPermission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:\n\n     1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.\n\n     2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.\n\n     3. This notice may not be removed or altered from any source distribution.\n" .
 <http://spdx.org/licenses/Zlib> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<beginOptional>> zlib License<<endOptional>> <<var;name=\"copyright\";original=\"Copyright (c) <year> <copyright holders>\";match=\".{0,1000}\">>\n\nThis software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.\n\nPermission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:\n\n   <<var;name=\"bullet\";original=\"1.\";match=\".{0,20}\">> The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.\n\n   <<var;name=\"bullet\";original=\"2.\";match=\".{0,20}\">> Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.\n\n   <<var;name=\"bullet\";original=\"3.\";match=\".{0,20}\">> This notice may not be removed or altered from any source distribution." .
+<http://spdx.org/licenses/Zlib> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B65c1640fX2D5e5bX2D4c31X2D9c81X2Dd0d52b05b689 .
 <http://spdx.org/licenses/Zlib> <http://spdx.org/rdf/terms#isFsfLibre> "true" .
-<http://spdx.org/licenses/Zlib> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bfaece069X2Dee70X2D447aX2D802aX2D9e8b06249a88 .
 <http://spdx.org/licenses/Zlib> <http://spdx.org/rdf/terms#licenseId> "Zlib" .
 <http://spdx.org/licenses/Zlib> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://www.zlib.net/zlib_license.html" .
-<http://spdx.org/licenses/Zlib> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B9e2090a0X2D121bX2D4fc0X2Db2e0X2D3306ca4d356d .
-_:Bfaece069X2Dee70X2D447aX2D802aX2D9e8b06249a88 <http://spdx.org/rdf/terms#order> "1" .
-_:Bfaece069X2Dee70X2D447aX2D802aX2D9e8b06249a88 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 04:10:25" .
-_:Bfaece069X2Dee70X2D447aX2D802aX2D9e8b06249a88 <http://spdx.org/rdf/terms#match> "true" .
-_:Bfaece069X2Dee70X2D447aX2D802aX2D9e8b06249a88 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:Bfaece069X2Dee70X2D447aX2D802aX2D9e8b06249a88 <http://spdx.org/rdf/terms#isLive> "true" .
-_:Bfaece069X2Dee70X2D447aX2D802aX2D9e8b06249a88 <http://spdx.org/rdf/terms#isValid> "true" .
-_:Bfaece069X2Dee70X2D447aX2D802aX2D9e8b06249a88 <http://spdx.org/rdf/terms#url> "https://opensource.org/licenses/Zlib" .
-_:Bfaece069X2Dee70X2D447aX2D802aX2D9e8b06249a88 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:B9e2090a0X2D121bX2D4fc0X2Db2e0X2D3306ca4d356d <http://spdx.org/rdf/terms#order> "0" .
-_:B9e2090a0X2D121bX2D4fc0X2Db2e0X2D3306ca4d356d <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 04:10:25" .
-_:B9e2090a0X2D121bX2D4fc0X2Db2e0X2D3306ca4d356d <http://spdx.org/rdf/terms#match> "false" .
-_:B9e2090a0X2D121bX2D4fc0X2Db2e0X2D3306ca4d356d <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:B9e2090a0X2D121bX2D4fc0X2Db2e0X2D3306ca4d356d <http://spdx.org/rdf/terms#isLive> "true" .
-_:B9e2090a0X2D121bX2D4fc0X2Db2e0X2D3306ca4d356d <http://spdx.org/rdf/terms#isValid> "true" .
-_:B9e2090a0X2D121bX2D4fc0X2Db2e0X2D3306ca4d356d <http://spdx.org/rdf/terms#url> "http://www.zlib.net/zlib_license.html" .
-_:B9e2090a0X2D121bX2D4fc0X2Db2e0X2D3306ca4d356d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/Zlib> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bec7e4c14X2Db827X2D45c8X2D917aX2D763ac309e6dd .

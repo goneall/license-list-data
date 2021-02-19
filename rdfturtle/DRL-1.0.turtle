@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:10:56" ;
+                                        spdx:timestamp      "2021-02-19 - 05:33:50" ;
                                         spdx:url            "https://github.com/Neo23x0/sigma/blob/master/LICENSE.Detection.Rules.md"
                                       ] ;
         rdfs:seeAlso                  "https://github.com/Neo23x0/sigma/blob/master/LICENSE.Detection.Rules.md" ;

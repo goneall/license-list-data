@@ -1,15 +1,15 @@
-_:Bc0a527fdX2D2882X2D483eX2Daa6eX2D85d1fe9c9083 <http://spdx.org/rdf/terms#order> "0" .
-_:Bc0a527fdX2D2882X2D483eX2Daa6eX2D85d1fe9c9083 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 04:15:46" .
-_:Bc0a527fdX2D2882X2D483eX2Daa6eX2D85d1fe9c9083 <http://spdx.org/rdf/terms#match> "true" .
-_:Bc0a527fdX2D2882X2D483eX2Daa6eX2D85d1fe9c9083 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:Bc0a527fdX2D2882X2D483eX2Daa6eX2D85d1fe9c9083 <http://spdx.org/rdf/terms#isLive> "true" .
-_:Bc0a527fdX2D2882X2D483eX2Daa6eX2D85d1fe9c9083 <http://spdx.org/rdf/terms#isValid> "true" .
-_:Bc0a527fdX2D2882X2D483eX2Daa6eX2D85d1fe9c9083 <http://spdx.org/rdf/terms#url> "https://opensource.org/licenses/NTP" .
-_:Bc0a527fdX2D2882X2D483eX2Daa6eX2D85d1fe9c9083 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bf9e74e46X2D57d5X2D48f3X2D8ee4X2Dcfb40d7b59f0 <http://spdx.org/rdf/terms#order> "0" .
+_:Bf9e74e46X2D57d5X2D48f3X2D8ee4X2Dcfb40d7b59f0 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 05:38:43" .
+_:Bf9e74e46X2D57d5X2D48f3X2D8ee4X2Dcfb40d7b59f0 <http://spdx.org/rdf/terms#match> "true" .
+_:Bf9e74e46X2D57d5X2D48f3X2D8ee4X2Dcfb40d7b59f0 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:Bf9e74e46X2D57d5X2D48f3X2D8ee4X2Dcfb40d7b59f0 <http://spdx.org/rdf/terms#isLive> "true" .
+_:Bf9e74e46X2D57d5X2D48f3X2D8ee4X2Dcfb40d7b59f0 <http://spdx.org/rdf/terms#isValid> "true" .
+_:Bf9e74e46X2D57d5X2D48f3X2D8ee4X2Dcfb40d7b59f0 <http://spdx.org/rdf/terms#url> "https://opensource.org/licenses/NTP" .
+_:Bf9e74e46X2D57d5X2D48f3X2D8ee4X2Dcfb40d7b59f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/NTP> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<beginOptional>> NTP License (NTP)<<endOptional>> <<var;name=\"copyright\";original=\"Copyright (c) (CopyrightHoldersName) (From 4-digit-year)-(To 4-digit-year)\";match=\".{0,1000}\">>\n\nPermission to use, copy, modify, and distribute this software and its documentation for any purpose with or without fee is hereby granted, provided that the above copyright notice appears in all copies and that both the copyright notice and this permission notice appear in supporting documentation, and that the name <<var;name=\"TMname\";original=\"(TrademarkedName)\";match=\".+\">> not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission. <<var;name=\"TMname\";original=\"(TrademarkedName)\";match=\".+\">> makes no representations about the suitability this software for any purpose. It is provided \"as is\" without express or implied warranty." .
 <http://spdx.org/licenses/NTP> <http://spdx.org/rdf/terms#isOsiApproved> "true" .
 <http://spdx.org/licenses/NTP> <http://spdx.org/rdf/terms#licenseText> "NTP License (NTP)\n\nCopyright (c) (CopyrightHoldersName) (From 4-digit-year)-(To 4-digit-year)\n\nPermission to use, copy, modify, and distribute this software and its documentation for any purpose with or without fee is hereby granted, provided that the above copyright notice appears in all copies and that both the copyright notice and this permission notice appear in supporting documentation, and that the name (TrademarkedName) not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission. (TrademarkedName) makes no representations about the suitability this software for any purpose. It is provided \"as is\" without express or implied warranty.\n" .
-<http://spdx.org/licenses/NTP> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bc0a527fdX2D2882X2D483eX2Daa6eX2D85d1fe9c9083 .
+<http://spdx.org/licenses/NTP> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bf9e74e46X2D57d5X2D48f3X2D8ee4X2Dcfb40d7b59f0 .
 <http://spdx.org/licenses/NTP> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://opensource.org/licenses/NTP" .
 <http://spdx.org/licenses/NTP> <http://spdx.org/rdf/terms#name> "NTP License" .
 <http://spdx.org/licenses/NTP> <http://spdx.org/rdf/terms#licenseId> "NTP" .

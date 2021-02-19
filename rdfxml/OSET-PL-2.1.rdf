@@ -214,7 +214,7 @@ This Source Code Form is "Incompatible With Secondary Licenses", as defined by t
     <rdfs:crossRef>
       <spdx:CrossRef>
         <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:10:11</spdx:timestamp>
+        <spdx:timestamp>2021-02-19 - 05:33:03</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>false</spdx:isLive>
@@ -225,17 +225,6 @@ This Source Code Form is "Incompatible With Secondary Licenses", as defined by t
     <spdx:licenseId>OSET-PL-2.1</spdx:licenseId>
     <spdx:name>OSET Public License version 2.1</spdx:name>
     <spdx:isOsiApproved>true</spdx:isOsiApproved>
-    <rdfs:crossRef>
-      <spdx:CrossRef>
-        <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:10:11</spdx:timestamp>
-        <spdx:match>false</spdx:match>
-        <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
-        <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://opensource.org/licenses/OPL-2.1</spdx:url>
-      </spdx:CrossRef>
-    </rdfs:crossRef>
     <spdx:licenseText>OSET Public License
 (c) 2015 ALL RIGHTS RESERVED VERSION 2.1
 
@@ -398,5 +387,16 @@ EXHIBIT B - “Incompatible With Secondary License” Notice
 
 This Source Code Form is “Incompatible With Secondary Licenses”, as defined by the OSET Public License, v.2.1.
 </spdx:licenseText>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>1</spdx:order>
+        <spdx:timestamp>2021-02-19 - 05:33:06</spdx:timestamp>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://opensource.org/licenses/OPL-2.1</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
   </spdx:License>
 </rdf:RDF>

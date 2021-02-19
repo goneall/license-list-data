@@ -1,25 +1,25 @@
+_:Be86fad4cX2D3a2bX2D4ec8X2D843aX2D10a64d0cb40c <http://spdx.org/rdf/terms#order> "1" .
+_:Be86fad4cX2D3a2bX2D4ec8X2D843aX2D10a64d0cb40c <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 05:32:42" .
+_:Be86fad4cX2D3a2bX2D4ec8X2D843aX2D10a64d0cb40c <http://spdx.org/rdf/terms#match> "false" .
+_:Be86fad4cX2D3a2bX2D4ec8X2D843aX2D10a64d0cb40c <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:Be86fad4cX2D3a2bX2D4ec8X2D843aX2D10a64d0cb40c <http://spdx.org/rdf/terms#isLive> "true" .
+_:Be86fad4cX2D3a2bX2D4ec8X2D843aX2D10a64d0cb40c <http://spdx.org/rdf/terms#isValid> "true" .
+_:Be86fad4cX2D3a2bX2D4ec8X2D843aX2D10a64d0cb40c <http://spdx.org/rdf/terms#url> "https://people.freebsd.org/~phk/" .
+_:Be86fad4cX2D3a2bX2D4ec8X2D843aX2D10a64d0cb40c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#standardLicenseTemplate> "\"THE BEER-WARE LICENSE\" (Revision 42):\n\n<phk@FreeBSD.ORG> wrote this file. As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp" .
 <http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#licenseText> "\"THE BEER-WARE LICENSE\" (Revision 42):  <phk@FreeBSD.ORG> wrote this file. As long as you retain this notice you  can do whatever you want with this stuff. If we meet some day, and you think  this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp\n" .
-<http://spdx.org/licenses/Beerware> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bef0998aaX2D0d28X2D4de8X2Da357X2D4f40149f787d .
-<http://spdx.org/licenses/Beerware> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Ba58c8691X2De94dX2D4bd2X2Db145X2D9968a14d5db2 .
+<http://spdx.org/licenses/Beerware> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Be86fad4cX2D3a2bX2D4ec8X2D843aX2D10a64d0cb40c .
+<http://spdx.org/licenses/Beerware> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B716507aaX2D7ce8X2D4e9cX2Dab54X2D5272b18e80ce .
 <http://spdx.org/licenses/Beerware> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://people.freebsd.org/~phk/" .
 <http://spdx.org/licenses/Beerware> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://fedoraproject.org/wiki/Licensing/Beerware" .
 <http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#name> "Beerware License" .
 <http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#licenseId> "Beerware" .
 <http://spdx.org/licenses/Beerware> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#License> .
-_:Bef0998aaX2D0d28X2D4de8X2Da357X2D4f40149f787d <http://spdx.org/rdf/terms#order> "1" .
-_:Bef0998aaX2D0d28X2D4de8X2Da357X2D4f40149f787d <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 04:09:53" .
-_:Bef0998aaX2D0d28X2D4de8X2Da357X2D4f40149f787d <http://spdx.org/rdf/terms#match> "false" .
-_:Bef0998aaX2D0d28X2D4de8X2Da357X2D4f40149f787d <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:Bef0998aaX2D0d28X2D4de8X2Da357X2D4f40149f787d <http://spdx.org/rdf/terms#isLive> "true" .
-_:Bef0998aaX2D0d28X2D4de8X2Da357X2D4f40149f787d <http://spdx.org/rdf/terms#isValid> "true" .
-_:Bef0998aaX2D0d28X2D4de8X2Da357X2D4f40149f787d <http://spdx.org/rdf/terms#url> "https://people.freebsd.org/~phk/" .
-_:Bef0998aaX2D0d28X2D4de8X2Da357X2D4f40149f787d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:Ba58c8691X2De94dX2D4bd2X2Db145X2D9968a14d5db2 <http://spdx.org/rdf/terms#order> "0" .
-_:Ba58c8691X2De94dX2D4bd2X2Db145X2D9968a14d5db2 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 04:09:53" .
-_:Ba58c8691X2De94dX2D4bd2X2Db145X2D9968a14d5db2 <http://spdx.org/rdf/terms#match> "false" .
-_:Ba58c8691X2De94dX2D4bd2X2Db145X2D9968a14d5db2 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:Ba58c8691X2De94dX2D4bd2X2Db145X2D9968a14d5db2 <http://spdx.org/rdf/terms#isLive> "true" .
-_:Ba58c8691X2De94dX2D4bd2X2Db145X2D9968a14d5db2 <http://spdx.org/rdf/terms#isValid> "true" .
-_:Ba58c8691X2De94dX2D4bd2X2Db145X2D9968a14d5db2 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/Beerware" .
-_:Ba58c8691X2De94dX2D4bd2X2Db145X2D9968a14d5db2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B716507aaX2D7ce8X2D4e9cX2Dab54X2D5272b18e80ce <http://spdx.org/rdf/terms#order> "0" .
+_:B716507aaX2D7ce8X2D4e9cX2Dab54X2D5272b18e80ce <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 05:32:42" .
+_:B716507aaX2D7ce8X2D4e9cX2Dab54X2D5272b18e80ce <http://spdx.org/rdf/terms#match> "false" .
+_:B716507aaX2D7ce8X2D4e9cX2Dab54X2D5272b18e80ce <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:B716507aaX2D7ce8X2D4e9cX2Dab54X2D5272b18e80ce <http://spdx.org/rdf/terms#isLive> "true" .
+_:B716507aaX2D7ce8X2D4e9cX2Dab54X2D5272b18e80ce <http://spdx.org/rdf/terms#isValid> "true" .
+_:B716507aaX2D7ce8X2D4e9cX2Dab54X2D5272b18e80ce <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/Beerware" .
+_:B716507aaX2D7ce8X2D4e9cX2Dab54X2D5272b18e80ce <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

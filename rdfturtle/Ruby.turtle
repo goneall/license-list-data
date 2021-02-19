@@ -12,7 +12,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:09:04" ;
+                                        spdx:timestamp      "2021-02-19 - 05:31:54" ;
                                         spdx:url            "http://www.ruby-lang.org/en/LICENSE.txt"
                                       ] ;
         rdfs:seeAlso                  "http://www.ruby-lang.org/en/LICENSE.txt" ;

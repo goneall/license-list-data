@@ -7,7 +7,7 @@
     <rdfs:crossRef>
       <spdx:CrossRef>
         <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:12:52</spdx:timestamp>
+        <spdx:timestamp>2021-02-19 - 05:35:47</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>false</spdx:isLive>
@@ -17,13 +17,13 @@
     </rdfs:crossRef>
     <rdfs:crossRef>
       <spdx:CrossRef>
-        <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:12:54</spdx:timestamp>
+        <spdx:order>2</spdx:order>
+        <spdx:timestamp>2021-02-19 - 05:35:50</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>
         <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://www.perlfoundation.org/artistic-license-20.html</spdx:url>
+        <spdx:url>https://opensource.org/licenses/artistic-license-2.0</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
     <rdfs:seeAlso>http://www.perlfoundation.org/artistic_license_2_0</rdfs:seeAlso>
@@ -143,6 +143,17 @@ General Provisions
     <spdx:isFsfLibre>true</spdx:isFsfLibre>
     <spdx:licenseId>Artistic-2.0</spdx:licenseId>
     <spdx:name>Artistic License 2.0</spdx:name>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>1</spdx:order>
+        <spdx:timestamp>2021-02-19 - 05:35:48</spdx:timestamp>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://www.perlfoundation.org/artistic-license-20.html</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
     <rdfs:seeAlso>https://www.perlfoundation.org/artistic-license-20.html</rdfs:seeAlso>
     <spdx:isOsiApproved>true</spdx:isOsiApproved>
     <spdx:licenseText>The Artistic License 2.0
@@ -231,16 +242,5 @@ General Provisions
 (14)  Disclaimer of Warranty:
 THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL LAW. UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 </spdx:licenseText>
-    <rdfs:crossRef>
-      <spdx:CrossRef>
-        <spdx:order>2</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:12:55</spdx:timestamp>
-        <spdx:match>false</spdx:match>
-        <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
-        <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://opensource.org/licenses/artistic-license-2.0</spdx:url>
-      </spdx:CrossRef>
-    </rdfs:crossRef>
   </spdx:License>
 </rdf:RDF>

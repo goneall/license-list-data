@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:08:55" ;
+                                        spdx:timestamp      "2021-02-19 - 05:31:44" ;
                                         spdx:url            "http://legacy.imatix.com/html/sfl/sfl4.htm#license"
                                       ] ;
         rdfs:seeAlso                  "http://legacy.imatix.com/html/sfl/sfl4.htm#license" ;

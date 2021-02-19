@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:11:05" ;
+                                        spdx:timestamp      "2021-02-19 - 05:33:58" ;
                                         spdx:url            "http://ecos.sourceware.org/old-license.html"
                                       ] ;
         rdfs:seeAlso                  "http://ecos.sourceware.org/old-license.html" ;

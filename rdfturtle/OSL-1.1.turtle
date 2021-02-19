@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:08:39" ;
+                                        spdx:timestamp      "2021-02-19 - 05:31:29" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/OSL1.1"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/OSL1.1" ;

@@ -12,7 +12,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:15:35" ;
+                                        spdx:timestamp      "2021-02-19 - 05:38:33" ;
                                         spdx:url            "https://polyformproject.org/licenses/small-business/1.0.0"
                                       ] ;
         rdfs:seeAlso                  "https://polyformproject.org/licenses/small-business/1.0.0" ;

@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:09:41" ;
+                                        spdx:timestamp      "2021-02-19 - 05:32:32" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/Dotseqn"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/Dotseqn" ;

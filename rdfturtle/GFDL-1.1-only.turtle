@@ -12,7 +12,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:13:43" ;
+                                        spdx:timestamp      "2021-02-19 - 05:36:38" ;
                                         spdx:url            "https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt"
                                       ] ;
         rdfs:seeAlso                  "https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt" ;

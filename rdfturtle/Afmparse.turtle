@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:17:15" ;
+                                        spdx:timestamp      "2021-02-19 - 05:40:14" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/Afmparse"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/Afmparse" ;

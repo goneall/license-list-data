@@ -6,33 +6,11 @@
   <spdx:License rdf:about="http://spdx.org/licenses/MIT-open-group">
     <spdx:licenseId>MIT-open-group</spdx:licenseId>
     <rdfs:seeAlso>https://gitlab.freedesktop.org/xorg/app/xauth/-/blob/master/COPYING</rdfs:seeAlso>
-    <rdfs:crossRef>
-      <spdx:CrossRef>
-        <spdx:order>3</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:13:35</spdx:timestamp>
-        <spdx:match>false</spdx:match>
-        <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
-        <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://gitlab.freedesktop.org/xorg/app/xauth/-/blob/master/COPYING</spdx:url>
-      </spdx:CrossRef>
-    </rdfs:crossRef>
     <rdfs:seeAlso>https://gitlab.freedesktop.org/xorg/app/xsetroot/-/blob/master/COPYING</rdfs:seeAlso>
     <rdfs:crossRef>
       <spdx:CrossRef>
-        <spdx:order>2</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:13:35</spdx:timestamp>
-        <spdx:match>false</spdx:match>
-        <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
-        <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://gitlab.freedesktop.org/xorg/app/xsetroot/-/blob/master/COPYING</spdx:url>
-      </spdx:CrossRef>
-    </rdfs:crossRef>
-    <rdfs:crossRef>
-      <spdx:CrossRef>
         <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:13:35</spdx:timestamp>
+        <spdx:timestamp>2021-02-19 - 05:36:30</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>
@@ -69,12 +47,34 @@ from The Open Group.
     <rdfs:crossRef>
       <spdx:CrossRef>
         <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:13:34</spdx:timestamp>
+        <spdx:timestamp>2021-02-19 - 05:36:29</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>
         <spdx:isValid>true</spdx:isValid>
         <spdx:url>https://gitlab.freedesktop.org/xorg/app/iceauth/-/blob/master/COPYING</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>3</spdx:order>
+        <spdx:timestamp>2021-02-19 - 05:36:30</spdx:timestamp>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://gitlab.freedesktop.org/xorg/app/xauth/-/blob/master/COPYING</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>2</spdx:order>
+        <spdx:timestamp>2021-02-19 - 05:36:30</spdx:timestamp>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://gitlab.freedesktop.org/xorg/app/xsetroot/-/blob/master/COPYING</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
     <spdx:standardLicenseTemplate>&lt;&lt;var;name="copyright";original="Copyright &lt;yyyy, yyyy&gt; The Open Group";match=".{0,1000}"&gt;&gt;

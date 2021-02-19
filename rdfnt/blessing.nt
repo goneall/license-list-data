@@ -1,25 +1,25 @@
 <http://spdx.org/licenses/blessing> <http://spdx.org/rdf/terms#standardLicenseTemplate> "The author disclaims copyright to this source code. In place of a legal notice, here is a blessing:\n\n   \n\n   May you do good and not evil.\n\n   \n\n   May you find forgiveness for yourself and forgive others.\n\n   \n\n   May you share freely, never taking more than you give." .
 <http://spdx.org/licenses/blessing> <http://spdx.org/rdf/terms#licenseText> "The author disclaims copyright to this source code. In place of a legal notice, here is a blessing:\n\nMay you do good and not evil.\nMay you find forgiveness for yourself and forgive others.\nMay you share freely, never taking more than you give.\n" .
-<http://spdx.org/licenses/blessing> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Ba6d7b7ecX2D2227X2D4825X2D842eX2D8215df5b1baf .
-<http://spdx.org/licenses/blessing> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B75b2bab1X2Da22eX2D4dc3X2Dbe59X2D337f0bce565c .
+<http://spdx.org/licenses/blessing> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Ba151e5c9X2Dc4e4X2D404dX2D8ad9X2Da6555c6f4330 .
+<http://spdx.org/licenses/blessing> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B985bd3a7X2D7c59X2D4652X2Db888X2Da525bebd8677 .
 <http://spdx.org/licenses/blessing> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://sqlite.org/src/artifact/df5091916dbb40e6" .
 <http://spdx.org/licenses/blessing> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://www.sqlite.org/src/artifact/e33a4df7e32d742a?ln=4-9" .
 <http://spdx.org/licenses/blessing> <http://spdx.org/rdf/terms#name> "SQLite Blessing" .
 <http://spdx.org/licenses/blessing> <http://spdx.org/rdf/terms#licenseId> "blessing" .
 <http://spdx.org/licenses/blessing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#License> .
-_:Ba6d7b7ecX2D2227X2D4825X2D842eX2D8215df5b1baf <http://spdx.org/rdf/terms#order> "1" .
-_:Ba6d7b7ecX2D2227X2D4825X2D842eX2D8215df5b1baf <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 04:08:10" .
-_:Ba6d7b7ecX2D2227X2D4825X2D842eX2D8215df5b1baf <http://spdx.org/rdf/terms#match> "true" .
-_:Ba6d7b7ecX2D2227X2D4825X2D842eX2D8215df5b1baf <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:Ba6d7b7ecX2D2227X2D4825X2D842eX2D8215df5b1baf <http://spdx.org/rdf/terms#isLive> "true" .
-_:Ba6d7b7ecX2D2227X2D4825X2D842eX2D8215df5b1baf <http://spdx.org/rdf/terms#isValid> "true" .
-_:Ba6d7b7ecX2D2227X2D4825X2D842eX2D8215df5b1baf <http://spdx.org/rdf/terms#url> "https://sqlite.org/src/artifact/df5091916dbb40e6" .
-_:Ba6d7b7ecX2D2227X2D4825X2D842eX2D8215df5b1baf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:B75b2bab1X2Da22eX2D4dc3X2Dbe59X2D337f0bce565c <http://spdx.org/rdf/terms#order> "0" .
-_:B75b2bab1X2Da22eX2D4dc3X2Dbe59X2D337f0bce565c <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 04:08:09" .
-_:B75b2bab1X2Da22eX2D4dc3X2Dbe59X2D337f0bce565c <http://spdx.org/rdf/terms#match> "false" .
-_:B75b2bab1X2Da22eX2D4dc3X2Dbe59X2D337f0bce565c <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:B75b2bab1X2Da22eX2D4dc3X2Dbe59X2D337f0bce565c <http://spdx.org/rdf/terms#isLive> "true" .
-_:B75b2bab1X2Da22eX2D4dc3X2Dbe59X2D337f0bce565c <http://spdx.org/rdf/terms#isValid> "true" .
-_:B75b2bab1X2Da22eX2D4dc3X2Dbe59X2D337f0bce565c <http://spdx.org/rdf/terms#url> "https://www.sqlite.org/src/artifact/e33a4df7e32d742a?ln=4-9" .
-_:B75b2bab1X2Da22eX2D4dc3X2Dbe59X2D337f0bce565c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B985bd3a7X2D7c59X2D4652X2Db888X2Da525bebd8677 <http://spdx.org/rdf/terms#order> "0" .
+_:B985bd3a7X2D7c59X2D4652X2Db888X2Da525bebd8677 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 05:31:00" .
+_:B985bd3a7X2D7c59X2D4652X2Db888X2Da525bebd8677 <http://spdx.org/rdf/terms#match> "false" .
+_:B985bd3a7X2D7c59X2D4652X2Db888X2Da525bebd8677 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:B985bd3a7X2D7c59X2D4652X2Db888X2Da525bebd8677 <http://spdx.org/rdf/terms#isLive> "true" .
+_:B985bd3a7X2D7c59X2D4652X2Db888X2Da525bebd8677 <http://spdx.org/rdf/terms#isValid> "true" .
+_:B985bd3a7X2D7c59X2D4652X2Db888X2Da525bebd8677 <http://spdx.org/rdf/terms#url> "https://www.sqlite.org/src/artifact/e33a4df7e32d742a?ln=4-9" .
+_:B985bd3a7X2D7c59X2D4652X2Db888X2Da525bebd8677 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Ba151e5c9X2Dc4e4X2D404dX2D8ad9X2Da6555c6f4330 <http://spdx.org/rdf/terms#order> "1" .
+_:Ba151e5c9X2Dc4e4X2D404dX2D8ad9X2Da6555c6f4330 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 05:31:01" .
+_:Ba151e5c9X2Dc4e4X2D404dX2D8ad9X2Da6555c6f4330 <http://spdx.org/rdf/terms#match> "true" .
+_:Ba151e5c9X2Dc4e4X2D404dX2D8ad9X2Da6555c6f4330 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:Ba151e5c9X2Dc4e4X2D404dX2D8ad9X2Da6555c6f4330 <http://spdx.org/rdf/terms#isLive> "true" .
+_:Ba151e5c9X2Dc4e4X2D404dX2D8ad9X2Da6555c6f4330 <http://spdx.org/rdf/terms#isValid> "true" .
+_:Ba151e5c9X2Dc4e4X2D404dX2D8ad9X2Da6555c6f4330 <http://spdx.org/rdf/terms#url> "https://sqlite.org/src/artifact/df5091916dbb40e6" .
+_:Ba151e5c9X2Dc4e4X2D404dX2D8ad9X2Da6555c6f4330 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

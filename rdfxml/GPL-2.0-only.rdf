@@ -4,13 +4,17 @@
     xmlns:doap="http://usefulinc.com/ns/doap#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:License rdf:about="http://spdx.org/licenses/GPL-2.0-only">
-    <spdx:standardLicenseHeader>Copyright (C) yyyy name of author
-
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 2.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.</spdx:standardLicenseHeader>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>1</spdx:order>
+        <spdx:timestamp>2021-02-19 - 05:35:10</spdx:timestamp>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://opensource.org/licenses/GPL-2.0</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
     <spdx:isOsiApproved>true</spdx:isOsiApproved>
     <rdfs:seeAlso>https://opensource.org/licenses/GPL-2.0</rdfs:seeAlso>
     <spdx:isFsfLibre>true</spdx:isFsfLibre>
@@ -146,17 +150,6 @@ This program is free software; you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301&lt;&lt;beginOptional&gt;&gt;, &lt;&lt;endOptional&gt;&gt; USA.</spdx:standardLicenseHeaderTemplate>
-    <rdfs:crossRef>
-      <spdx:CrossRef>
-        <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:12:14</spdx:timestamp>
-        <spdx:match>true</spdx:match>
-        <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
-        <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html</spdx:url>
-      </spdx:CrossRef>
-    </rdfs:crossRef>
     <spdx:licenseText>GNU GENERAL PUBLIC LICENSE
 Version 2, June 1991
 
@@ -277,14 +270,21 @@ signature of Ty Coon, 1 April 1989 Ty Coon, President of Vice
 </spdx:licenseText>
     <rdfs:crossRef>
       <spdx:CrossRef>
-        <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:12:14</spdx:timestamp>
-        <spdx:match>false</spdx:match>
+        <spdx:order>0</spdx:order>
+        <spdx:timestamp>2021-02-19 - 05:35:09</spdx:timestamp>
+        <spdx:match>true</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>
         <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://opensource.org/licenses/GPL-2.0</spdx:url>
+        <spdx:url>https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
+    <spdx:standardLicenseHeader>Copyright (C) yyyy name of author
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 2.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.</spdx:standardLicenseHeader>
   </spdx:License>
 </rdf:RDF>

@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:08:18" ;
+                                        spdx:timestamp      "2021-02-19 - 05:31:09" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/XSkat_License"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/XSkat_License" ;

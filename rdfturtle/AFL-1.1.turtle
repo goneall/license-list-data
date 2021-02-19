@@ -12,7 +12,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "N/A" ;
                                         spdx:order          "1" ;
-                                        spdx:timestamp      "2021-02-19 - 04:09:11" ;
+                                        spdx:timestamp      "2021-02-19 - 05:32:01" ;
                                         spdx:url            "http://wayback.archive.org/web/20021004124254/http://www.opensource.org/licenses/academic.php"
                                       ] ;
         rdfs:crossRef                 [ a                   spdx:CrossRef ;
@@ -21,7 +21,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:09:10" ;
+                                        spdx:timestamp      "2021-02-19 - 05:32:00" ;
                                         spdx:url            "http://opensource.linux-mirror.org/licenses/afl-1.1.txt"
                                       ] ;
         rdfs:seeAlso                  "http://wayback.archive.org/web/20021004124254/http://www.opensource.org/licenses/academic.php" , "http://opensource.linux-mirror.org/licenses/afl-1.1.txt" ;

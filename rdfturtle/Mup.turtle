@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:10:07" ;
+                                        spdx:timestamp      "2021-02-19 - 05:32:58" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/Mup"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/Mup" ;

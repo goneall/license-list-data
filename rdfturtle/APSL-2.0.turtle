@@ -12,7 +12,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:09:08" ;
+                                        spdx:timestamp      "2021-02-19 - 05:31:57" ;
                                         spdx:url            "http://www.opensource.apple.com/license/apsl/"
                                       ] ;
         rdfs:seeAlso                  "http://www.opensource.apple.com/license/apsl/" ;

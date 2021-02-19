@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:09:46" ;
+                                        spdx:timestamp      "2021-02-19 - 05:32:36" ;
                                         spdx:url            "https://cdla.io/permissive-1-0"
                                       ] ;
         rdfs:seeAlso                  "https://cdla.io/permissive-1-0" ;

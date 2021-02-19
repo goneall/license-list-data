@@ -6,17 +6,6 @@
   <spdx:License rdf:about="http://spdx.org/licenses/LGPL-2.1-only">
     <rdfs:seeAlso>https://opensource.org/licenses/LGPL-2.1</rdfs:seeAlso>
     <spdx:isFsfLibre>true</spdx:isFsfLibre>
-    <rdfs:crossRef>
-      <spdx:CrossRef>
-        <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:12:23</spdx:timestamp>
-        <spdx:match>true</spdx:match>
-        <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
-        <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</spdx:url>
-      </spdx:CrossRef>
-    </rdfs:crossRef>
     <spdx:standardLicenseHeaderTemplate>Copyright (C) &lt;&lt;var;name="copyright";original="year name of author";match=".+"&gt;&gt;
 
 This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; version 2.1.
@@ -392,7 +381,7 @@ That's all there is to it!&lt;&lt;endOptional&gt;&gt;</spdx:standardLicenseTempl
     <rdfs:crossRef>
       <spdx:CrossRef>
         <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:12:24</spdx:timestamp>
+        <spdx:timestamp>2021-02-19 - 05:35:20</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>
@@ -402,5 +391,16 @@ That's all there is to it!&lt;&lt;endOptional&gt;&gt;</spdx:standardLicenseTempl
     </rdfs:crossRef>
     <spdx:isOsiApproved>true</spdx:isOsiApproved>
     <spdx:name>GNU Lesser General Public License v2.1 only</spdx:name>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>0</spdx:order>
+        <spdx:timestamp>2021-02-19 - 05:35:20</spdx:timestamp>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
   </spdx:License>
 </rdf:RDF>

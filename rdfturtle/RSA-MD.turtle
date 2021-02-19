@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:09:12" ;
+                                        spdx:timestamp      "2021-02-19 - 05:32:03" ;
                                         spdx:url            "http://www.faqs.org/rfcs/rfc1321.html"
                                       ] ;
         rdfs:seeAlso                  "http://www.faqs.org/rfcs/rfc1321.html" ;

@@ -5,30 +5,30 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:License rdf:about="http://spdx.org/licenses/RPSL-1.0">
     <spdx:isOsiApproved>true</spdx:isOsiApproved>
-    <spdx:isFsfLibre>true</spdx:isFsfLibre>
-    <rdfs:seeAlso>https://helixcommunity.org/content/rpsl</rdfs:seeAlso>
-    <rdfs:crossRef>
-      <spdx:CrossRef>
-        <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:08:21</spdx:timestamp>
-        <spdx:match>true</spdx:match>
-        <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
-        <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://opensource.org/licenses/RPSL-1.0</spdx:url>
-      </spdx:CrossRef>
-    </rdfs:crossRef>
-    <rdfs:seeAlso>https://opensource.org/licenses/RPSL-1.0</rdfs:seeAlso>
-    <spdx:licenseId>RPSL-1.0</spdx:licenseId>
     <rdfs:crossRef>
       <spdx:CrossRef>
         <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:08:15</spdx:timestamp>
+        <spdx:timestamp>2021-02-19 - 05:31:06</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>false</spdx:isLive>
         <spdx:isValid>true</spdx:isValid>
         <spdx:url>https://helixcommunity.org/content/rpsl</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
+    <spdx:isFsfLibre>true</spdx:isFsfLibre>
+    <rdfs:seeAlso>https://helixcommunity.org/content/rpsl</rdfs:seeAlso>
+    <rdfs:seeAlso>https://opensource.org/licenses/RPSL-1.0</rdfs:seeAlso>
+    <spdx:licenseId>RPSL-1.0</spdx:licenseId>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>1</spdx:order>
+        <spdx:timestamp>2021-02-19 - 05:31:15</spdx:timestamp>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://opensource.org/licenses/RPSL-1.0</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
     <spdx:standardLicenseHeaderTemplate>&lt;&lt;beginOptional&gt;&gt;"&lt;&lt;endOptional&gt;&gt;Copyright (c) 1995-2002 RealNetworks, Inc. and/or its licensors. All Rights Reserved.

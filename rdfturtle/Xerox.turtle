@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 04:08:06" ;
+                                        spdx:timestamp      "2021-02-19 - 05:30:57" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/Xerox"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/Xerox" ;

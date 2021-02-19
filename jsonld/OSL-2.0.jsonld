@@ -7,7 +7,7 @@
     "isWayBackLink" : "false",
     "match" : "N/A",
     "order" : "0",
-    "timestamp" : "2021-02-19 - 04:15:49",
+    "timestamp" : "2021-02-19 - 05:38:46",
     "url" : "http://web.archive.org/web/20041020171434/http://www.rosenlaw.com/osl2.0.html"
   }, {
     "@id" : "http://spdx.org/licenses/OSL-2.0",
@@ -51,10 +51,6 @@
     "standardLicenseHeader" : {
       "@id" : "http://spdx.org/rdf/terms#standardLicenseHeader"
     },
-    "crossRef" : {
-      "@id" : "http://www.w3.org/2000/01/rdf-schema#crossRef",
-      "@type" : "@id"
-    },
     "seeAlso" : {
       "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
     },
@@ -66,6 +62,10 @@
     },
     "licenseId" : {
       "@id" : "http://spdx.org/rdf/terms#licenseId"
+    },
+    "crossRef" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#crossRef",
+      "@type" : "@id"
     },
     "isFsfLibre" : {
       "@id" : "http://spdx.org/rdf/terms#isFsfLibre"

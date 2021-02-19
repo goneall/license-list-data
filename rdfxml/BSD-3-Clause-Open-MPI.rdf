@@ -52,22 +52,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 The copyright holders provide no reassurances that the source code provided does not infringe any patent, copyright, or any other intellectual property rights of third parties. The copyright holders disclaim any liability to any recipient for claims brought against recipient by any third party for infringement of that parties intellectual property rights.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</spdx:standardLicenseTemplate>
-    <rdfs:crossRef>
-      <spdx:CrossRef>
-        <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:08:43</spdx:timestamp>
-        <spdx:match>true</spdx:match>
-        <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
-        <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://www.open-mpi.org/community/license.php</spdx:url>
-      </spdx:CrossRef>
-    </rdfs:crossRef>
     <rdfs:seeAlso>https://www.open-mpi.org/community/license.php</rdfs:seeAlso>
     <rdfs:crossRef>
       <spdx:CrossRef>
         <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 04:08:43</spdx:timestamp>
+        <spdx:timestamp>2021-02-19 - 05:31:32</spdx:timestamp>
         <spdx:match>true</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>
@@ -76,6 +65,17 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
       </spdx:CrossRef>
     </rdfs:crossRef>
     <spdx:name>BSD 3-Clause Open MPI variant</spdx:name>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>0</spdx:order>
+        <spdx:timestamp>2021-02-19 - 05:31:32</spdx:timestamp>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://www.open-mpi.org/community/license.php</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
     <spdx:licenseId>BSD-3-Clause-Open-MPI</spdx:licenseId>
   </spdx:License>
 </rdf:RDF>
