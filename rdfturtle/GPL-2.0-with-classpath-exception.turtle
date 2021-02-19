@@ -5,6 +5,16 @@
 
 <http://spdx.org/licenses/GPL-2.0-with-classpath-exception>
         a                             spdx:License ;
+        rdfs:comment                  "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: Classpath-exception-2.0" ;
+        rdfs:crossRef                 [ a                   spdx:CrossRef ;
+                                        spdx:isLive         "true" ;
+                                        spdx:isValid        "true" ;
+                                        spdx:isWayBackLink  "false" ;
+                                        spdx:match          "false" ;
+                                        spdx:order          "0" ;
+                                        spdx:timestamp      "2021-02-19 - 04:10:19" ;
+                                        spdx:url            "https://www.gnu.org/software/classpath/license.html"
+                                      ] ;
         rdfs:seeAlso                  "https://www.gnu.org/software/classpath/license.html" ;
         spdx:isDeprecatedLicenseId    "true" ;
         spdx:licenseId                "GPL-2.0-with-classpath-exception" ;

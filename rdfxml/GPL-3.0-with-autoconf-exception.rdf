@@ -63,8 +63,20 @@ The purpose of this Exception is to allow distribution of Autoconf's typical out
    2. No Weakening of Autoconf Copyleft.
 
    The availability of this Exception does not imply any general presumption that third-party software is unaffected by the copyleft requirements of the license of Autoconf.</spdx:licenseText>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>0</spdx:order>
+        <spdx:timestamp>2021-02-19 - 04:08:36</spdx:timestamp>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://www.gnu.org/licenses/autoconf-exception-3.0.html</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
     <rdfs:seeAlso>https://www.gnu.org/licenses/autoconf-exception-3.0.html</rdfs:seeAlso>
     <spdx:name>GNU General Public License v3.0 w/Autoconf exception</spdx:name>
+    <rdfs:comment>DEPRECATED: Use license expression including main license, "WITH" operator, and identifier: Autoconf-exception-3.0</rdfs:comment>
     <spdx:licenseId>GPL-3.0-with-autoconf-exception</spdx:licenseId>
   </spdx:License>
 </rdf:RDF>

@@ -5,6 +5,16 @@
 
 <http://spdx.org/licenses/GPL-3.0-with-GCC-exception>
         a                             spdx:License ;
+        rdfs:comment                  "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: GCC-exception-3.1" ;
+        rdfs:crossRef                 [ a                   spdx:CrossRef ;
+                                        spdx:isLive         "true" ;
+                                        spdx:isValid        "true" ;
+                                        spdx:isWayBackLink  "false" ;
+                                        spdx:match          "false" ;
+                                        spdx:order          "0" ;
+                                        spdx:timestamp      "2021-02-19 - 04:08:42" ;
+                                        spdx:url            "https://www.gnu.org/licenses/gcc-exception-3.1.html"
+                                      ] ;
         rdfs:seeAlso                  "https://www.gnu.org/licenses/gcc-exception-3.1.html" ;
         spdx:isDeprecatedLicenseId    "true" ;
         spdx:isOsiApproved            "true" ;

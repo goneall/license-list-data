@@ -1,5 +1,5 @@
 # License List
-The following licenses have been generated from the license list version 3.10-3-gaf50167
+The following licenses have been generated from the license list version ea5e49d
 
 ## Licenses with Short Idenifiers
 
@@ -26,6 +26,7 @@ The following licenses have been generated from the license list version 3.10-3-
 | Apple MIT License                                                            | [AML][]                                  |      |           |
 | Academy of Motion Picture Arts and Sciences BSD                              | [AMPAS][]                                |      |           |
 | ANTLR Software Rights Notice                                                 | [ANTLR-PD][]                             |      |           |
+| ANTLR Software Rights Notice with license fallback                           | [ANTLR-PD-fallback][]                    |      |           |
 | Apache License 1.0                                                           | [Apache-1.0][]                           |      | Y         |
 | Apache License 1.1                                                           | [Apache-1.1][]                           | Y    | Y         |
 | Apache License 2.0                                                           | [Apache-2.0][]                           | Y    | Y         |
@@ -60,10 +61,12 @@ The following licenses have been generated from the license list version 3.10-3-
 | BSD 3-Clause No Nuclear Warranty                                             | [BSD-3-Clause-No-Nuclear-Warranty][]     |      |           |
 | BSD 3-Clause Open MPI variant                                                | [BSD-3-Clause-Open-MPI][]                |      |           |
 | BSD 4-Clause "Original" or "Old" License                                     | [BSD-4-Clause][]                         |      | Y         |
+| BSD 4 Clause Shortened                                                       | [BSD-4-Clause-Shortened][]               |      |           |
 | BSD-4-Clause (University of California-Specific)                             | [BSD-4-Clause-UC][]                      |      |           |
 | BSD Protection License                                                       | [BSD-Protection][]                       |      |           |
 | BSD Source Code Attribution                                                  | [BSD-Source-Code][]                      |      |           |
 | Boost Software License 1.0                                                   | [BSL-1.0][]                              | Y    | Y         |
+| Business Source License 1.1                                                  | [BUSL-1.1][]                             |      |           |
 | bzip2 and libbzip2 License v1.0.5                                            | [bzip2-1.0.5][]                          |      |           |
 | bzip2 and libbzip2 License v1.0.6                                            | [bzip2-1.0.6][]                          |      |           |
 | Cryptographic Autonomy License 1.0                                           | [CAL-1.0][]                              | Y    |           |
@@ -75,6 +78,7 @@ The following licenses have been generated from the license list version 3.10-3-
 | Creative Commons Attribution 2.5 Generic                                     | [CC-BY-2.5][]                            |      |           |
 | Creative Commons Attribution 3.0 Unported                                    | [CC-BY-3.0][]                            |      |           |
 | Creative Commons Attribution 3.0 Austria                                     | [CC-BY-3.0-AT][]                         |      |           |
+| Creative Commons Attribution 3.0 United States                               | [CC-BY-3.0-US][]                         |      |           |
 | Creative Commons Attribution 4.0 International                               | [CC-BY-4.0][]                            |      | Y         |
 | Creative Commons Attribution Non Commercial 1.0 Generic                      | [CC-BY-NC-1.0][]                         |      |           |
 | Creative Commons Attribution Non Commercial 2.0 Generic                      | [CC-BY-NC-2.0][]                         |      |           |
@@ -99,6 +103,7 @@ The following licenses have been generated from the license list version 3.10-3-
 | Creative Commons Attribution No Derivatives 4.0 International                | [CC-BY-ND-4.0][]                         |      |           |
 | Creative Commons Attribution Share Alike 1.0 Generic                         | [CC-BY-SA-1.0][]                         |      |           |
 | Creative Commons Attribution Share Alike 2.0 Generic                         | [CC-BY-SA-2.0][]                         |      |           |
+| Creative Commons Attribution Share Alike 2.0 England and Wales               | [CC-BY-SA-2.0-UK][]                      |      |           |
 | Creative Commons Attribution Share Alike 2.5 Generic                         | [CC-BY-SA-2.5][]                         |      |           |
 | Creative Commons Attribution Share Alike 3.0 Unported                        | [CC-BY-SA-3.0][]                         |      |           |
 | Creative Commons Attribution-Share Alike 3.0 Austria                         | [CC-BY-SA-3.0-AT][]                      |      |           |
@@ -139,6 +144,7 @@ The following licenses have been generated from the license list version 3.10-3-
 | diffmark license                                                             | [diffmark][]                             |      |           |
 | DOC License                                                                  | [DOC][]                                  |      |           |
 | Dotseqn License                                                              | [Dotseqn][]                              |      |           |
+| Detection Rule License 1.0                                                   | [DRL-1.0][]                              |      |           |
 | DSDP License                                                                 | [DSDP][]                                 |      |           |
 | dvipdfm License                                                              | [dvipdfm][]                              |      |           |
 | Educational Community License v1.0                                           | [ECL-1.0][]                              | Y    |           |
@@ -155,10 +161,11 @@ The following licenses have been generated from the license list version 3.10-3-
 | EU DataGrid Software License                                                 | [EUDatagrid][]                           | Y    | Y         |
 | European Union Public License 1.0                                            | [EUPL-1.0][]                             |      |           |
 | European Union Public License 1.1                                            | [EUPL-1.1][]                             | Y    | Y         |
-| European Union Public License 1.2                                            | [EUPL-1.2][]                             | Y    | Y         |
+| European Union Public License 1.2                                            | [EUPL-1.2][]                             | Y    |           |
 | Eurosym License                                                              | [Eurosym][]                              |      |           |
 | Fair License                                                                 | [Fair][]                                 | Y    |           |
 | Frameworx Open License 1.0                                                   | [Frameworx-1.0][]                        | Y    |           |
+| FreeBSD Documentation License                                                | [FreeBSD-DOC][]                          |      |           |
 | FreeImage Public License v1.0                                                | [FreeImage][]                            |      |           |
 | FSF All Permissive License                                                   | [FSFAP][]                                |      | Y         |
 | FSF Unlimited License                                                        | [FSFUL][]                                |      |           |
@@ -199,6 +206,7 @@ The following licenses have been generated from the license list version 3.10-3-
 | Hippocratic License 2.1                                                      | [Hippocratic-2.1][]                      |      |           |
 | Historical Permission Notice and Disclaimer                                  | [HPND][]                                 | Y    | Y         |
 | Historical Permission Notice and Disclaimer - sell variant                   | [HPND-sell-variant][]                    |      |           |
+| HTML Tidy License                                                            | [HTMLTIDY][]                             |      |           |
 | IBM PowerPC Initialization and Boot Software                                 | [IBM-pibs][]                             |      |           |
 | ICU License                                                                  | [ICU][]                                  |      |           |
 | Independent JPEG Group License                                               | [IJG][]                                  |      | Y         |
@@ -249,6 +257,7 @@ The following licenses have been generated from the license list version 3.10-3-
 | CMU License                                                                  | [MIT-CMU][]                              |      |           |
 | enna License                                                                 | [MIT-enna][]                             |      |           |
 | feh License                                                                  | [MIT-feh][]                              |      |           |
+| MIT Open Group variant                                                       | [MIT-open-group][]                       |      |           |
 | MIT +no-false-attribs license                                                | [MITNFA][]                               |      |           |
 | Motosoto License                                                             | [Motosoto][]                             | Y    |           |
 | mpich2 License                                                               | [mpich2][]                               |      |           |
@@ -288,9 +297,9 @@ The following licenses have been generated from the license list version 3.10-3-
 | Open Use of Data Agreement v1.0                                              | [O-UDA-1.0][]                            |      |           |
 | Open CASCADE Technology Public License                                       | [OCCT-PL][]                              |      |           |
 | OCLC Research Public License 2.0                                             | [OCLC-2.0][]                             | Y    |           |
-| ODC Open Database License v1.0                                               | [ODbL-1.0][]                             |      | Y         |
+| Open Data Commons Open Database License v1.0                                 | [ODbL-1.0][]                             |      | Y         |
 | Open Data Commons Attribution License v1.0                                   | [ODC-By-1.0][]                           |      |           |
-| SIL Open Font License 1.0                                                    | [OFL-1.0][]                              |      | Y         |
+| SIL Open Font License 1.0                                                    | [OFL-1.0][]                              |      |           |
 | SIL Open Font License 1.0 with no Reserved Font Name                         | [OFL-1.0-no-RFN][]                       |      |           |
 | SIL Open Font License 1.0 with Reserved Font Name                            | [OFL-1.0-RFN][]                          |      |           |
 | SIL Open Font License 1.1                                                    | [OFL-1.1][]                              | Y    | Y         |
@@ -317,7 +326,7 @@ The following licenses have been generated from the license list version 3.10-3-
 | Open LDAP Public License v2.5                                                | [OLDAP-2.5][]                            |      |           |
 | Open LDAP Public License v2.6                                                | [OLDAP-2.6][]                            |      |           |
 | Open LDAP Public License v2.7                                                | [OLDAP-2.7][]                            |      | Y         |
-| Open LDAP Public License v2.8                                                | [OLDAP-2.8][]                            |      |           |
+| Open LDAP Public License v2.8                                                | [OLDAP-2.8][]                            | Y    |           |
 | Open Market License                                                          | [OML][]                                  |      |           |
 | OpenSSL License                                                              | [OpenSSL][]                              |      | Y         |
 | Open Public License v1.0                                                     | [OPL-1.0][]                              |      |           |
@@ -329,7 +338,7 @@ The following licenses have been generated from the license list version 3.10-3-
 | Open Software License 3.0                                                    | [OSL-3.0][]                              | Y    | Y         |
 | The Parity Public License 6.0.0                                              | [Parity-6.0.0][]                         |      |           |
 | The Parity Public License 7.0.0                                              | [Parity-7.0.0][]                         |      |           |
-| ODC Public Domain Dedication & License 1.0                                   | [PDDL-1.0][]                             |      |           |
+| Open Data Commons Public Domain Dedication & License 1.0                     | [PDDL-1.0][]                             |      |           |
 | PHP License v3.0                                                             | [PHP-3.0][]                              | Y    |           |
 | PHP License v3.01                                                            | [PHP-3.01][]                             | Y    | Y         |
 | Plexus Classworlds License                                                   | [Plexus][]                               |      |           |
@@ -386,7 +395,7 @@ The following licenses have been generated from the license list version 3.10-3-
 | Technische Universitaet Berlin License 2.0                                   | [TU-Berlin-2.0][]                        |      |           |
 | Upstream Compatibility License v1.0                                          | [UCL-1.0][]                              | Y    |           |
 | Unicode License Agreement - Data Files and Software (2015)                   | [Unicode-DFS-2015][]                     |      |           |
-| Unicode License Agreement - Data Files and Software (2016)                   | [Unicode-DFS-2016][]                     |      |           |
+| Unicode License Agreement - Data Files and Software (2016)                   | [Unicode-DFS-2016][]                     | Y    |           |
 | Unicode Terms of Use                                                         | [Unicode-TOU][]                          |      |           |
 | The Unlicense                                                                | [Unlicense][]                            | Y    | Y         |
 | Universal Permissive License v1.0                                            | [UPL-1.0][]                              | Y    | Y         |
@@ -521,6 +530,7 @@ The following licenses have been generated from the license list version 3.10-3-
 [AML]: text/AML.txt
 [AMPAS]: text/AMPAS.txt
 [ANTLR-PD]: text/ANTLR-PD.txt
+[ANTLR-PD-fallback]: text/ANTLR-PD-fallback.txt
 [Apache-1.0]: text/Apache-1.0.txt
 [Apache-1.1]: text/Apache-1.1.txt
 [Apache-2.0]: text/Apache-2.0.txt
@@ -557,10 +567,12 @@ The following licenses have been generated from the license list version 3.10-3-
 [BSD-3-Clause-No-Nuclear-Warranty]: text/BSD-3-Clause-No-Nuclear-Warranty.txt
 [BSD-3-Clause-Open-MPI]: text/BSD-3-Clause-Open-MPI.txt
 [BSD-4-Clause]: text/BSD-4-Clause.txt
+[BSD-4-Clause-Shortened]: text/BSD-4-Clause-Shortened.txt
 [BSD-4-Clause-UC]: text/BSD-4-Clause-UC.txt
 [BSD-Protection]: text/BSD-Protection.txt
 [BSD-Source-Code]: text/BSD-Source-Code.txt
 [BSL-1.0]: text/BSL-1.0.txt
+[BUSL-1.1]: text/BUSL-1.1.txt
 [bzip2-1.0.5]: text/bzip2-1.0.5.txt
 [bzip2-1.0.6]: text/bzip2-1.0.6.txt
 [CAL-1.0]: text/CAL-1.0.txt
@@ -572,6 +584,7 @@ The following licenses have been generated from the license list version 3.10-3-
 [CC-BY-2.5]: text/CC-BY-2.5.txt
 [CC-BY-3.0]: text/CC-BY-3.0.txt
 [CC-BY-3.0-AT]: text/CC-BY-3.0-AT.txt
+[CC-BY-3.0-US]: text/CC-BY-3.0-US.txt
 [CC-BY-4.0]: text/CC-BY-4.0.txt
 [CC-BY-NC-1.0]: text/CC-BY-NC-1.0.txt
 [CC-BY-NC-2.0]: text/CC-BY-NC-2.0.txt
@@ -596,6 +609,7 @@ The following licenses have been generated from the license list version 3.10-3-
 [CC-BY-ND-4.0]: text/CC-BY-ND-4.0.txt
 [CC-BY-SA-1.0]: text/CC-BY-SA-1.0.txt
 [CC-BY-SA-2.0]: text/CC-BY-SA-2.0.txt
+[CC-BY-SA-2.0-UK]: text/CC-BY-SA-2.0-UK.txt
 [CC-BY-SA-2.5]: text/CC-BY-SA-2.5.txt
 [CC-BY-SA-3.0]: text/CC-BY-SA-3.0.txt
 [CC-BY-SA-3.0-AT]: text/CC-BY-SA-3.0-AT.txt
@@ -636,6 +650,7 @@ The following licenses have been generated from the license list version 3.10-3-
 [diffmark]: text/diffmark.txt
 [DOC]: text/DOC.txt
 [Dotseqn]: text/Dotseqn.txt
+[DRL-1.0]: text/DRL-1.0.txt
 [DSDP]: text/DSDP.txt
 [dvipdfm]: text/dvipdfm.txt
 [ECL-1.0]: text/ECL-1.0.txt
@@ -657,6 +672,7 @@ The following licenses have been generated from the license list version 3.10-3-
 [Eurosym]: text/Eurosym.txt
 [Fair]: text/Fair.txt
 [Frameworx-1.0]: text/Frameworx-1.0.txt
+[FreeBSD-DOC]: text/FreeBSD-DOC.txt
 [FreeImage]: text/FreeImage.txt
 [FSFAP]: text/FSFAP.txt
 [FSFUL]: text/FSFUL.txt
@@ -713,6 +729,7 @@ The following licenses have been generated from the license list version 3.10-3-
 [Hippocratic-2.1]: text/Hippocratic-2.1.txt
 [HPND]: text/HPND.txt
 [HPND-sell-variant]: text/HPND-sell-variant.txt
+[HTMLTIDY]: text/HTMLTIDY.txt
 [IBM-pibs]: text/IBM-pibs.txt
 [ICU]: text/ICU.txt
 [IJG]: text/IJG.txt
@@ -769,6 +786,7 @@ The following licenses have been generated from the license list version 3.10-3-
 [MIT-CMU]: text/MIT-CMU.txt
 [MIT-enna]: text/MIT-enna.txt
 [MIT-feh]: text/MIT-feh.txt
+[MIT-open-group]: text/MIT-open-group.txt
 [MITNFA]: text/MITNFA.txt
 [Motosoto]: text/Motosoto.txt
 [mpich2]: text/mpich2.txt

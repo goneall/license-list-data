@@ -1,6 +1,15 @@
 <http://spdx.org/licenses/psfrag> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<beginOptional>> psfrag.dtx<<endOptional>> <<var;name=\"copyright\";original=\"Copyright (C) 1996 Craig Barratt, Michael C. Grant, and David Carlisle.\n\nAll rights are reserved.\";match=\".{0,1000}\">>\n\nThis system is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Don't come complaining to us if you modify this file and it doesn't work! If this file is modified by anyone but the authors, those changes and their authors must be explicitly stated HERE." .
-<http://spdx.org/licenses/psfrag> <http://spdx.org/rdf/terms#licenseText> "psfrag.dtx Copyright (C) 1996 Craig Barratt, Michael C. Grant, and David Carlisle.\n\nAll rights are reserved.\n\nThis system is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Don't come complaining to us if you modify this file and it doesn't work! If this file is modified by anyone but the authors, those changes and their authors must be explicitly stated HERE." .
+<http://spdx.org/licenses/psfrag> <http://spdx.org/rdf/terms#licenseText> "psfrag.dtx\nCopyright (C) 1996 Craig Barratt, Michael C. Grant, and David Carlisle.\nAll rights are reserved.\n\nThis system is distributed in the hope that it will be  useful, but WITHOUT ANY WARRANTY; without even the  implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Don't come complaining to us if you modify this file and it doesn't work! If this file is modified by anyone but the authors, those changes and their authors must be explicitly stated HERE.\n" .
+<http://spdx.org/licenses/psfrag> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bd7f21eefX2Da5c0X2D4aebX2Dab46X2Dc845150a8710 .
 <http://spdx.org/licenses/psfrag> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://fedoraproject.org/wiki/Licensing/psfrag" .
 <http://spdx.org/licenses/psfrag> <http://spdx.org/rdf/terms#name> "psfrag License" .
 <http://spdx.org/licenses/psfrag> <http://spdx.org/rdf/terms#licenseId> "psfrag" .
 <http://spdx.org/licenses/psfrag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#License> .
+_:Bd7f21eefX2Da5c0X2D4aebX2Dab46X2Dc845150a8710 <http://spdx.org/rdf/terms#order> "0" .
+_:Bd7f21eefX2Da5c0X2D4aebX2Dab46X2Dc845150a8710 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 04:09:26" .
+_:Bd7f21eefX2Da5c0X2D4aebX2Dab46X2Dc845150a8710 <http://spdx.org/rdf/terms#match> "false" .
+_:Bd7f21eefX2Da5c0X2D4aebX2Dab46X2Dc845150a8710 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:Bd7f21eefX2Da5c0X2D4aebX2Dab46X2Dc845150a8710 <http://spdx.org/rdf/terms#isLive> "true" .
+_:Bd7f21eefX2Da5c0X2D4aebX2Dab46X2Dc845150a8710 <http://spdx.org/rdf/terms#isValid> "true" .
+_:Bd7f21eefX2Da5c0X2D4aebX2Dab46X2Dc845150a8710 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/psfrag" .
+_:Bd7f21eefX2Da5c0X2D4aebX2Dab46X2Dc845150a8710 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

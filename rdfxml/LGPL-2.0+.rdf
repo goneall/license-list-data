@@ -6,6 +6,17 @@
   <spdx:License rdf:about="http://spdx.org/licenses/LGPL-2.0+">
     <rdfs:seeAlso>https://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html</rdfs:seeAlso>
     <spdx:name>GNU Library General Public License v2 or later</spdx:name>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>0</spdx:order>
+        <spdx:timestamp>2021-02-19 - 04:09:09</spdx:timestamp>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
     <spdx:licenseId>LGPL-2.0+</spdx:licenseId>
     <spdx:standardLicenseHeader>one line to give the library's name and an idea of what it does.
 
