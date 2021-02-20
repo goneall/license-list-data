@@ -1,6 +1,6 @@
 {
-  "licenseListVersion": "22c48d2",
-  "releaseDate": "2021-02-19",
+  "licenseListVersion": "10232b5",
+  "releaseDate": "2021-02-20",
   "exceptions": [
     {
       "reference": "./OCaml-LGPL-linking-exception.html",
