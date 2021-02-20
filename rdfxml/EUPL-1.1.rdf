@@ -5,6 +5,17 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:License rdf:about="http://spdx.org/licenses/EUPL-1.1">
     <spdx:isOsiApproved>true</spdx:isOsiApproved>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>2</spdx:order>
+        <spdx:timestamp>2021-02-20 - 22:18:05</spdx:timestamp>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://opensource.org/licenses/EUPL-1.1</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
     <spdx:licenseText>European Union Public Licence V. 1.1
 
 EUPL (c) the European Community 2007
@@ -328,19 +339,8 @@ Appendix
     <rdfs:seeAlso>https://opensource.org/licenses/EUPL-1.1</rdfs:seeAlso>
     <rdfs:crossRef>
       <spdx:CrossRef>
-        <spdx:order>2</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:20:03</spdx:timestamp>
-        <spdx:match>false</spdx:match>
-        <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
-        <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://opensource.org/licenses/EUPL-1.1</spdx:url>
-      </spdx:CrossRef>
-    </rdfs:crossRef>
-    <rdfs:crossRef>
-      <spdx:CrossRef>
         <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:20:02</spdx:timestamp>
+        <spdx:timestamp>2021-02-20 - 22:18:04</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>
@@ -352,7 +352,7 @@ Appendix
     <rdfs:crossRef>
       <spdx:CrossRef>
         <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:20:03</spdx:timestamp>
+        <spdx:timestamp>2021-02-20 - 22:18:05</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>

@@ -1,26 +1,26 @@
-_:B99ae6408X2Df433X2D40a2X2Daad9X2D705c8e3463f3 <http://spdx.org/rdf/terms#order> "1" .
-_:B99ae6408X2Df433X2D40a2X2Daad9X2D705c8e3463f3 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 06:16:22" .
-_:B99ae6408X2Df433X2D40a2X2Daad9X2D705c8e3463f3 <http://spdx.org/rdf/terms#match> "true" .
-_:B99ae6408X2Df433X2D40a2X2Daad9X2D705c8e3463f3 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:B99ae6408X2Df433X2D40a2X2Daad9X2D705c8e3463f3 <http://spdx.org/rdf/terms#isLive> "true" .
-_:B99ae6408X2Df433X2D40a2X2Daad9X2D705c8e3463f3 <http://spdx.org/rdf/terms#isValid> "true" .
-_:B99ae6408X2Df433X2D40a2X2Daad9X2D705c8e3463f3 <http://spdx.org/rdf/terms#url> "https://opensource.org/licenses/Fair" .
-_:B99ae6408X2Df433X2D40a2X2Daad9X2D705c8e3463f3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:B8d8459a7X2Dbcd7X2D4a6aX2D80feX2D1150503f5c2a <http://spdx.org/rdf/terms#order> "0" .
-_:B8d8459a7X2Dbcd7X2D4a6aX2D80feX2D1150503f5c2a <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 06:16:22" .
-_:B8d8459a7X2Dbcd7X2D4a6aX2D80feX2D1150503f5c2a <http://spdx.org/rdf/terms#match> "false" .
-_:B8d8459a7X2Dbcd7X2D4a6aX2D80feX2D1150503f5c2a <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:B8d8459a7X2Dbcd7X2D4a6aX2D80feX2D1150503f5c2a <http://spdx.org/rdf/terms#isLive> "true" .
-_:B8d8459a7X2Dbcd7X2D4a6aX2D80feX2D1150503f5c2a <http://spdx.org/rdf/terms#isValid> "true" .
-_:B8d8459a7X2Dbcd7X2D4a6aX2D80feX2D1150503f5c2a <http://spdx.org/rdf/terms#url> "http://fairlicense.org/" .
-_:B8d8459a7X2Dbcd7X2D4a6aX2D80feX2D1150503f5c2a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-<http://spdx.org/licenses/Fair> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B8d8459a7X2Dbcd7X2D4a6aX2D80feX2D1150503f5c2a .
+_:B4b69f72dX2Df045X2D44d7X2Daa8bX2Ddbb1aec7c555 <http://spdx.org/rdf/terms#order> "1" .
+_:B4b69f72dX2Df045X2D44d7X2Daa8bX2Ddbb1aec7c555 <http://spdx.org/rdf/terms#timestamp> "2021-02-20 - 22:14:38" .
+_:B4b69f72dX2Df045X2D44d7X2Daa8bX2Ddbb1aec7c555 <http://spdx.org/rdf/terms#match> "true" .
+_:B4b69f72dX2Df045X2D44d7X2Daa8bX2Ddbb1aec7c555 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:B4b69f72dX2Df045X2D44d7X2Daa8bX2Ddbb1aec7c555 <http://spdx.org/rdf/terms#isLive> "true" .
+_:B4b69f72dX2Df045X2D44d7X2Daa8bX2Ddbb1aec7c555 <http://spdx.org/rdf/terms#isValid> "true" .
+_:B4b69f72dX2Df045X2D44d7X2Daa8bX2Ddbb1aec7c555 <http://spdx.org/rdf/terms#url> "https://opensource.org/licenses/Fair" .
+_:B4b69f72dX2Df045X2D44d7X2Daa8bX2Ddbb1aec7c555 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B1b3951afX2D085cX2D4398X2D8eb3X2Db9614524ce99 <http://spdx.org/rdf/terms#order> "0" .
+_:B1b3951afX2D085cX2D4398X2D8eb3X2Db9614524ce99 <http://spdx.org/rdf/terms#timestamp> "2021-02-20 - 22:14:37" .
+_:B1b3951afX2D085cX2D4398X2D8eb3X2Db9614524ce99 <http://spdx.org/rdf/terms#match> "false" .
+_:B1b3951afX2D085cX2D4398X2D8eb3X2Db9614524ce99 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:B1b3951afX2D085cX2D4398X2D8eb3X2Db9614524ce99 <http://spdx.org/rdf/terms#isLive> "true" .
+_:B1b3951afX2D085cX2D4398X2D8eb3X2Db9614524ce99 <http://spdx.org/rdf/terms#isValid> "true" .
+_:B1b3951afX2D085cX2D4398X2D8eb3X2Db9614524ce99 <http://spdx.org/rdf/terms#url> "http://fairlicense.org/" .
+_:B1b3951afX2D085cX2D4398X2D8eb3X2Db9614524ce99 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/Fair> <http://spdx.org/rdf/terms#licenseText> "Fair License\n\n<Copyright Information>\n\nUsage of the works is permitted provided that this instrument is retained with the works, so that any entity that uses the works is notified of this instrument.\n\nDISCLAIMER: THE WORKS ARE WITHOUT WARRANTY.\n\n[2004, Fair License: rhid.com/fair (this URL no longer works)]\n" .
-<http://spdx.org/licenses/Fair> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B99ae6408X2Df433X2D40a2X2Daad9X2D705c8e3463f3 .
 <http://spdx.org/licenses/Fair> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<beginOptional>> Fair License<<endOptional>> <<var;name=\"copyright\";original=\"<Copyright Information>\";match=\".{0,1000}\">>\n\nUsage of the works is permitted provided that this instrument is retained with the works, so that any entity that uses the works is notified of this instrument.\n\nDISCLAIMER: THE WORKS ARE WITHOUT WARRANTY." .
 <http://spdx.org/licenses/Fair> <http://spdx.org/rdf/terms#licenseId> "Fair" .
 <http://spdx.org/licenses/Fair> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://fairlicense.org/" .
 <http://spdx.org/licenses/Fair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#License> .
 <http://spdx.org/licenses/Fair> <http://spdx.org/rdf/terms#isOsiApproved> "true" .
 <http://spdx.org/licenses/Fair> <http://spdx.org/rdf/terms#name> "Fair License" .
+<http://spdx.org/licenses/Fair> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B1b3951afX2D085cX2D4398X2D8eb3X2Db9614524ce99 .
 <http://spdx.org/licenses/Fair> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://opensource.org/licenses/Fair" .
+<http://spdx.org/licenses/Fair> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B4b69f72dX2Df045X2D44d7X2Daa8bX2Ddbb1aec7c555 .

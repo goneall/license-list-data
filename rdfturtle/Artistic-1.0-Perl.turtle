@@ -12,7 +12,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 06:19:35" ;
+                                        spdx:timestamp      "2021-02-20 - 22:17:40" ;
                                         spdx:url            "http://dev.perl.org/licenses/artistic.html"
                                       ] ;
         rdfs:seeAlso                  "http://dev.perl.org/licenses/artistic.html" ;

@@ -7,19 +7,8 @@
     <rdfs:seeAlso>https://opensource.org/licenses/RSCPL</rdfs:seeAlso>
     <rdfs:crossRef>
       <spdx:CrossRef>
-        <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:12:59</spdx:timestamp>
-        <spdx:match>true</spdx:match>
-        <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
-        <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://opensource.org/licenses/RSCPL</spdx:url>
-      </spdx:CrossRef>
-    </rdfs:crossRef>
-    <rdfs:crossRef>
-      <spdx:CrossRef>
         <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:12:58</spdx:timestamp>
+        <spdx:timestamp>2021-02-20 - 22:11:29</spdx:timestamp>
         <spdx:match>N/A</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>false</spdx:isLive>
@@ -158,6 +147,17 @@ Software distributed under the License is distributed on an "AS IS" basis, WITHO
 This code was initially developed by Ricoh Silicon Valley, Inc. Portions created by Ricoh Silicon Valley, Inc. are Copyright (C) 1995-1999. All Rights Reserved.
 
 Contributor(s): ______________________________________."&lt;&lt;endOptional&gt;&gt;</spdx:standardLicenseTemplate>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>1</spdx:order>
+        <spdx:timestamp>2021-02-20 - 22:11:30</spdx:timestamp>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://opensource.org/licenses/RSCPL</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
     <spdx:licenseId>RSCPL</spdx:licenseId>
     <spdx:name>Ricoh Source Code Public License</spdx:name>
     <rdfs:seeAlso>http://wayback.archive.org/web/20060715140826/http://www.risource.org/RPL/RPL-1.0A.shtml</rdfs:seeAlso>

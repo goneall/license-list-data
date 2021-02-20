@@ -12,7 +12,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 06:13:33" ;
+                                        spdx:timestamp      "2021-02-20 - 22:11:59" ;
                                         spdx:url            "http://www.affero.org/oagpl.html"
                                       ] ;
         rdfs:seeAlso                  "http://www.affero.org/oagpl.html" ;

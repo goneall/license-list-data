@@ -7,7 +7,7 @@
     "isWayBackLink" : "false",
     "match" : "false",
     "order" : "0",
-    "timestamp" : "2021-02-19 - 06:13:54",
+    "timestamp" : "2021-02-20 - 22:12:18",
     "url" : "http://opensource.linux-mirror.org/licenses/afl-1.1.txt"
   }, {
     "@id" : "_:b1",
@@ -17,7 +17,7 @@
     "isWayBackLink" : "false",
     "match" : "N/A",
     "order" : "1",
-    "timestamp" : "2021-02-19 - 06:13:55",
+    "timestamp" : "2021-02-20 - 22:12:19",
     "url" : "http://wayback.archive.org/web/20021004124254/http://www.opensource.org/licenses/academic.php"
   }, {
     "@id" : "http://spdx.org/licenses/AFL-1.1",

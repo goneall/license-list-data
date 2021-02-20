@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 06:13:19" ;
+                                        spdx:timestamp      "2021-02-20 - 22:11:46" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/Borceux"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/Borceux" ;

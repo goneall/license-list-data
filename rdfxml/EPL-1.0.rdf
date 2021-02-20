@@ -82,18 +82,18 @@ This Agreement is governed by the laws of the State of New York and the intellec
     <rdfs:comment>EPL replaced the CPL on 28 June 2005.</rdfs:comment>
     <spdx:isOsiApproved>true</spdx:isOsiApproved>
     <rdfs:seeAlso>https://opensource.org/licenses/EPL-1.0</rdfs:seeAlso>
+    <spdx:name>Eclipse Public License 1.0</spdx:name>
     <rdfs:crossRef>
       <spdx:CrossRef>
-        <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:20:51</spdx:timestamp>
+        <spdx:order>0</spdx:order>
+        <spdx:timestamp>2021-02-20 - 22:18:51</spdx:timestamp>
         <spdx:match>true</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>
         <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://opensource.org/licenses/EPL-1.0</spdx:url>
+        <spdx:url>http://www.eclipse.org/legal/epl-v10.html</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
-    <spdx:name>Eclipse Public License 1.0</spdx:name>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; Eclipse Public License - v 1.0&lt;&lt;endOptional&gt;&gt;
 
 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
@@ -185,13 +185,13 @@ THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICE
     <rdfs:seeAlso>http://www.eclipse.org/legal/epl-v10.html</rdfs:seeAlso>
     <rdfs:crossRef>
       <spdx:CrossRef>
-        <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:20:51</spdx:timestamp>
+        <spdx:order>1</spdx:order>
+        <spdx:timestamp>2021-02-20 - 22:18:51</spdx:timestamp>
         <spdx:match>true</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>
         <spdx:isValid>true</spdx:isValid>
-        <spdx:url>http://www.eclipse.org/legal/epl-v10.html</spdx:url>
+        <spdx:url>https://opensource.org/licenses/EPL-1.0</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
   </spdx:License>

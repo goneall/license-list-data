@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 06:23:05" ;
+                                        spdx:timestamp      "2021-02-20 - 22:20:56" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/Xinetd_License"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/Xinetd_License" ;

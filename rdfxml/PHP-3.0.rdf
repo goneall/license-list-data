@@ -7,13 +7,13 @@
     <rdfs:seeAlso>http://www.php.net/license/3_0.txt</rdfs:seeAlso>
     <rdfs:crossRef>
       <spdx:CrossRef>
-        <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:13:00</spdx:timestamp>
+        <spdx:order>1</spdx:order>
+        <spdx:timestamp>2021-02-20 - 22:11:32</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>false</spdx:isLive>
+        <spdx:isLive>true</spdx:isLive>
         <spdx:isValid>true</spdx:isValid>
-        <spdx:url>http://www.php.net/license/3_0.txt</spdx:url>
+        <spdx:url>https://opensource.org/licenses/PHP-3.0</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
     <rdfs:seeAlso>https://opensource.org/licenses/PHP-3.0</rdfs:seeAlso>
@@ -76,13 +76,13 @@ This product includes the Zend Engine, freely available at &lt;http://www.zend.c
     <spdx:isOsiApproved>true</spdx:isOsiApproved>
     <rdfs:crossRef>
       <spdx:CrossRef>
-        <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:13:01</spdx:timestamp>
+        <spdx:order>0</spdx:order>
+        <spdx:timestamp>2021-02-20 - 22:11:31</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
+        <spdx:isLive>false</spdx:isLive>
         <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://opensource.org/licenses/PHP-3.0</spdx:url>
+        <spdx:url>http://www.php.net/license/3_0.txt</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
   </spdx:License>

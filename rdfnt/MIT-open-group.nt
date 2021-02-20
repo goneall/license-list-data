@@ -1,45 +1,45 @@
-_:B9a6c7a69X2D1563X2D4995X2Dbfb0X2D880bd703101c <http://spdx.org/rdf/terms#order> "1" .
-_:B9a6c7a69X2D1563X2D4995X2Dbfb0X2D880bd703101c <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 06:18:29" .
-_:B9a6c7a69X2D1563X2D4995X2Dbfb0X2D880bd703101c <http://spdx.org/rdf/terms#match> "false" .
-_:B9a6c7a69X2D1563X2D4995X2Dbfb0X2D880bd703101c <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:B9a6c7a69X2D1563X2D4995X2Dbfb0X2D880bd703101c <http://spdx.org/rdf/terms#isLive> "true" .
-_:B9a6c7a69X2D1563X2D4995X2Dbfb0X2D880bd703101c <http://spdx.org/rdf/terms#isValid> "true" .
-_:B9a6c7a69X2D1563X2D4995X2Dbfb0X2D880bd703101c <http://spdx.org/rdf/terms#url> "https://gitlab.freedesktop.org/xorg/app/xvinfo/-/blob/master/COPYING" .
-_:B9a6c7a69X2D1563X2D4995X2Dbfb0X2D880bd703101c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:Bf711f87cX2D30eaX2D4c5aX2D8e5aX2Da79fec27bb88 <http://spdx.org/rdf/terms#order> "0" .
-_:Bf711f87cX2D30eaX2D4c5aX2D8e5aX2Da79fec27bb88 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 06:18:28" .
-_:Bf711f87cX2D30eaX2D4c5aX2D8e5aX2Da79fec27bb88 <http://spdx.org/rdf/terms#match> "false" .
-_:Bf711f87cX2D30eaX2D4c5aX2D8e5aX2Da79fec27bb88 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:Bf711f87cX2D30eaX2D4c5aX2D8e5aX2Da79fec27bb88 <http://spdx.org/rdf/terms#isLive> "true" .
-_:Bf711f87cX2D30eaX2D4c5aX2D8e5aX2Da79fec27bb88 <http://spdx.org/rdf/terms#isValid> "true" .
-_:Bf711f87cX2D30eaX2D4c5aX2D8e5aX2Da79fec27bb88 <http://spdx.org/rdf/terms#url> "https://gitlab.freedesktop.org/xorg/app/iceauth/-/blob/master/COPYING" .
-_:Bf711f87cX2D30eaX2D4c5aX2D8e5aX2Da79fec27bb88 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B7b700d9eX2De2a0X2D432cX2Db812X2D2787bb053128 <http://spdx.org/rdf/terms#order> "2" .
+_:B7b700d9eX2De2a0X2D432cX2Db812X2D2787bb053128 <http://spdx.org/rdf/terms#timestamp> "2021-02-20 - 22:16:37" .
+_:B7b700d9eX2De2a0X2D432cX2Db812X2D2787bb053128 <http://spdx.org/rdf/terms#match> "false" .
+_:B7b700d9eX2De2a0X2D432cX2Db812X2D2787bb053128 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:B7b700d9eX2De2a0X2D432cX2Db812X2D2787bb053128 <http://spdx.org/rdf/terms#isLive> "true" .
+_:B7b700d9eX2De2a0X2D432cX2Db812X2D2787bb053128 <http://spdx.org/rdf/terms#isValid> "true" .
+_:B7b700d9eX2De2a0X2D432cX2Db812X2D2787bb053128 <http://spdx.org/rdf/terms#url> "https://gitlab.freedesktop.org/xorg/app/xsetroot/-/blob/master/COPYING" .
+_:B7b700d9eX2De2a0X2D432cX2Db812X2D2787bb053128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B3be1481cX2D1d71X2D495eX2Da3caX2D78c491615459 <http://spdx.org/rdf/terms#order> "3" .
+_:B3be1481cX2D1d71X2D495eX2Da3caX2D78c491615459 <http://spdx.org/rdf/terms#timestamp> "2021-02-20 - 22:16:37" .
+_:B3be1481cX2D1d71X2D495eX2Da3caX2D78c491615459 <http://spdx.org/rdf/terms#match> "false" .
+_:B3be1481cX2D1d71X2D495eX2Da3caX2D78c491615459 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:B3be1481cX2D1d71X2D495eX2Da3caX2D78c491615459 <http://spdx.org/rdf/terms#isLive> "true" .
+_:B3be1481cX2D1d71X2D495eX2Da3caX2D78c491615459 <http://spdx.org/rdf/terms#isValid> "true" .
+_:B3be1481cX2D1d71X2D495eX2Da3caX2D78c491615459 <http://spdx.org/rdf/terms#url> "https://gitlab.freedesktop.org/xorg/app/xauth/-/blob/master/COPYING" .
+_:B3be1481cX2D1d71X2D495eX2Da3caX2D78c491615459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bd25aedc4X2Dc741X2D4305X2Db80eX2D6a1f1c299686 <http://spdx.org/rdf/terms#order> "0" .
+_:Bd25aedc4X2Dc741X2D4305X2Db80eX2D6a1f1c299686 <http://spdx.org/rdf/terms#timestamp> "2021-02-20 - 22:16:36" .
+_:Bd25aedc4X2Dc741X2D4305X2Db80eX2D6a1f1c299686 <http://spdx.org/rdf/terms#match> "false" .
+_:Bd25aedc4X2Dc741X2D4305X2Db80eX2D6a1f1c299686 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:Bd25aedc4X2Dc741X2D4305X2Db80eX2D6a1f1c299686 <http://spdx.org/rdf/terms#isLive> "true" .
+_:Bd25aedc4X2Dc741X2D4305X2Db80eX2D6a1f1c299686 <http://spdx.org/rdf/terms#isValid> "true" .
+_:Bd25aedc4X2Dc741X2D4305X2Db80eX2D6a1f1c299686 <http://spdx.org/rdf/terms#url> "https://gitlab.freedesktop.org/xorg/app/iceauth/-/blob/master/COPYING" .
+_:Bd25aedc4X2Dc741X2D4305X2Db80eX2D6a1f1c299686 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bf643a2d8X2Dbf9bX2D44aaX2DbfafX2D98e59004a156 <http://spdx.org/rdf/terms#order> "1" .
+_:Bf643a2d8X2Dbf9bX2D44aaX2DbfafX2D98e59004a156 <http://spdx.org/rdf/terms#timestamp> "2021-02-20 - 22:16:36" .
+_:Bf643a2d8X2Dbf9bX2D44aaX2DbfafX2D98e59004a156 <http://spdx.org/rdf/terms#match> "false" .
+_:Bf643a2d8X2Dbf9bX2D44aaX2DbfafX2D98e59004a156 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:Bf643a2d8X2Dbf9bX2D44aaX2DbfafX2D98e59004a156 <http://spdx.org/rdf/terms#isLive> "true" .
+_:Bf643a2d8X2Dbf9bX2D44aaX2DbfafX2D98e59004a156 <http://spdx.org/rdf/terms#isValid> "true" .
+_:Bf643a2d8X2Dbf9bX2D44aaX2DbfafX2D98e59004a156 <http://spdx.org/rdf/terms#url> "https://gitlab.freedesktop.org/xorg/app/xvinfo/-/blob/master/COPYING" .
+_:Bf643a2d8X2Dbf9bX2D44aaX2DbfafX2D98e59004a156 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/MIT-open-group> <http://spdx.org/rdf/terms#licenseId> "MIT-open-group" .
+<http://spdx.org/licenses/MIT-open-group> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bd25aedc4X2Dc741X2D4305X2Db80eX2D6a1f1c299686 .
 <http://spdx.org/licenses/MIT-open-group> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://gitlab.freedesktop.org/xorg/app/xauth/-/blob/master/COPYING" .
+<http://spdx.org/licenses/MIT-open-group> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bf643a2d8X2Dbf9bX2D44aaX2DbfafX2D98e59004a156 .
 <http://spdx.org/licenses/MIT-open-group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#License> .
+<http://spdx.org/licenses/MIT-open-group> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B7b700d9eX2De2a0X2D432cX2Db812X2D2787bb053128 .
 <http://spdx.org/licenses/MIT-open-group> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://gitlab.freedesktop.org/xorg/app/xsetroot/-/blob/master/COPYING" .
-<http://spdx.org/licenses/MIT-open-group> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bf711f87cX2D30eaX2D4c5aX2D8e5aX2Da79fec27bb88 .
+<http://spdx.org/licenses/MIT-open-group> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B3be1481cX2D1d71X2D495eX2Da3caX2D78c491615459 .
 <http://spdx.org/licenses/MIT-open-group> <http://spdx.org/rdf/terms#name> "MIT Open Group variant" .
-<http://spdx.org/licenses/MIT-open-group> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B9a6c7a69X2D1563X2D4995X2Dbfb0X2D880bd703101c .
 <http://spdx.org/licenses/MIT-open-group> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://gitlab.freedesktop.org/xorg/app/iceauth/-/blob/master/COPYING" .
 <http://spdx.org/licenses/MIT-open-group> <http://spdx.org/rdf/terms#licenseText> "Copyright <yyyy, yyyy> The Open Group\n\nPermission to use, copy, modify, distribute, and sell this software and\nits documentation for any purpose is hereby granted without fee,\nprovided that the above copyright notice appear in all copies and that\nboth that copyright notice and this permission notice appear in\nsupporting documentation.\n\nThe above copyright notice and this permission notice shall be included\nin all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS\nOR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL BE LIABLE FOR ANY CLAIM, DAMAGES\nOR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR\nOTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR\nTHE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\nExcept as contained in this notice, the name of The Open Group\nshall not be used in advertising or otherwise to promote the sale, use\nor other dealings in this Software without prior written authorization\nfrom The Open Group.\n" .
-<http://spdx.org/licenses/MIT-open-group> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B7f69243cX2D67e3X2D486fX2D8b3eX2D699a54d825bd .
-<http://spdx.org/licenses/MIT-open-group> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bb372d1ffX2D1ec9X2D48dcX2Dae23X2Dd537cfb1e082 .
 <http://spdx.org/licenses/MIT-open-group> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Copyright <yyyy, yyyy> The Open Group\";match=\".{0,1000}\">>\n\nPermission to use, copy, modify, distribute, and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation.\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\nExcept as contained in this notice, the name of <<var;name=\"name1\";original=\"The Open Group\";match=\".+\">> shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from <<var;name=\"name2\";original=\"The Open Group\";match=\".+\">> ." .
 <http://spdx.org/licenses/MIT-open-group> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://gitlab.freedesktop.org/xorg/app/xvinfo/-/blob/master/COPYING" .
-_:B7f69243cX2D67e3X2D486fX2D8b3eX2D699a54d825bd <http://spdx.org/rdf/terms#order> "3" .
-_:B7f69243cX2D67e3X2D486fX2D8b3eX2D699a54d825bd <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 06:18:29" .
-_:B7f69243cX2D67e3X2D486fX2D8b3eX2D699a54d825bd <http://spdx.org/rdf/terms#match> "false" .
-_:B7f69243cX2D67e3X2D486fX2D8b3eX2D699a54d825bd <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:B7f69243cX2D67e3X2D486fX2D8b3eX2D699a54d825bd <http://spdx.org/rdf/terms#isLive> "true" .
-_:B7f69243cX2D67e3X2D486fX2D8b3eX2D699a54d825bd <http://spdx.org/rdf/terms#isValid> "true" .
-_:B7f69243cX2D67e3X2D486fX2D8b3eX2D699a54d825bd <http://spdx.org/rdf/terms#url> "https://gitlab.freedesktop.org/xorg/app/xauth/-/blob/master/COPYING" .
-_:B7f69243cX2D67e3X2D486fX2D8b3eX2D699a54d825bd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:Bb372d1ffX2D1ec9X2D48dcX2Dae23X2Dd537cfb1e082 <http://spdx.org/rdf/terms#order> "2" .
-_:Bb372d1ffX2D1ec9X2D48dcX2Dae23X2Dd537cfb1e082 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 06:18:29" .
-_:Bb372d1ffX2D1ec9X2D48dcX2Dae23X2Dd537cfb1e082 <http://spdx.org/rdf/terms#match> "false" .
-_:Bb372d1ffX2D1ec9X2D48dcX2Dae23X2Dd537cfb1e082 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:Bb372d1ffX2D1ec9X2D48dcX2Dae23X2Dd537cfb1e082 <http://spdx.org/rdf/terms#isLive> "true" .
-_:Bb372d1ffX2D1ec9X2D48dcX2Dae23X2Dd537cfb1e082 <http://spdx.org/rdf/terms#isValid> "true" .
-_:Bb372d1ffX2D1ec9X2D48dcX2Dae23X2Dd537cfb1e082 <http://spdx.org/rdf/terms#url> "https://gitlab.freedesktop.org/xorg/app/xsetroot/-/blob/master/COPYING" .
-_:Bb372d1ffX2D1ec9X2D48dcX2Dae23X2Dd537cfb1e082 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

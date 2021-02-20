@@ -1,15 +1,15 @@
+_:B4d875b60X2D9853X2D4d7eX2D8e9dX2D55c2fc3724be <http://spdx.org/rdf/terms#order> "0" .
+_:B4d875b60X2D9853X2D4d7eX2D8e9dX2D55c2fc3724be <http://spdx.org/rdf/terms#timestamp> "2021-02-20 - 22:11:37" .
+_:B4d875b60X2D9853X2D4d7eX2D8e9dX2D55c2fc3724be <http://spdx.org/rdf/terms#match> "false" .
+_:B4d875b60X2D9853X2D4d7eX2D8e9dX2D55c2fc3724be <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:B4d875b60X2D9853X2D4d7eX2D8e9dX2D55c2fc3724be <http://spdx.org/rdf/terms#isLive> "true" .
+_:B4d875b60X2D9853X2D4d7eX2D8e9dX2D55c2fc3724be <http://spdx.org/rdf/terms#isValid> "true" .
+_:B4d875b60X2D9853X2D4d7eX2D8e9dX2D55c2fc3724be <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/AmazonDigitalServicesLicense" .
+_:B4d875b60X2D9853X2D4d7eX2D8e9dX2D55c2fc3724be <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/ADSL> <http://spdx.org/rdf/terms#standardLicenseTemplate> "This software code is made available \"AS IS\" without warranties of any kind. You may copy, display, modify and redistribute the software code either by itself or as incorporated into your code; provided that you do not remove any proprietary notices. Your use of this software code is at your own risk and you waive any claim against Amazon Digital Services, Inc. or its affiliates with respect to your use of this software code. (c) 2006 Amazon Digital Services, Inc. or its affiliates." .
 <http://spdx.org/licenses/ADSL> <http://spdx.org/rdf/terms#licenseText> "This software code is made available \"AS IS\" without warranties of any kind. You may copy, display, modify and redistribute the software code either by itself or as incorporated into your code; provided that you do not remove any proprietary notices. Your use of this software code is at your own risk and you waive any claim against Amazon Digital Services, Inc. or its affiliates with respect to your use of this software code. (c) 2006 Amazon Digital Services, Inc. or its affiliates.\n" .
-<http://spdx.org/licenses/ADSL> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B313f1825X2D6c4aX2D4d38X2Dada6X2D17de997900bc .
+<http://spdx.org/licenses/ADSL> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B4d875b60X2D9853X2D4d7eX2D8e9dX2D55c2fc3724be .
 <http://spdx.org/licenses/ADSL> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://fedoraproject.org/wiki/Licensing/AmazonDigitalServicesLicense" .
 <http://spdx.org/licenses/ADSL> <http://spdx.org/rdf/terms#name> "Amazon Digital Services License" .
 <http://spdx.org/licenses/ADSL> <http://spdx.org/rdf/terms#licenseId> "ADSL" .
 <http://spdx.org/licenses/ADSL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#License> .
-_:B313f1825X2D6c4aX2D4d38X2Dada6X2D17de997900bc <http://spdx.org/rdf/terms#order> "0" .
-_:B313f1825X2D6c4aX2D4d38X2Dada6X2D17de997900bc <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 06:13:07" .
-_:B313f1825X2D6c4aX2D4d38X2Dada6X2D17de997900bc <http://spdx.org/rdf/terms#match> "false" .
-_:B313f1825X2D6c4aX2D4d38X2Dada6X2D17de997900bc <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:B313f1825X2D6c4aX2D4d38X2Dada6X2D17de997900bc <http://spdx.org/rdf/terms#isLive> "true" .
-_:B313f1825X2D6c4aX2D4d38X2Dada6X2D17de997900bc <http://spdx.org/rdf/terms#isValid> "true" .
-_:B313f1825X2D6c4aX2D4d38X2Dada6X2D17de997900bc <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/AmazonDigitalServicesLicense" .
-_:B313f1825X2D6c4aX2D4d38X2Dada6X2D17de997900bc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

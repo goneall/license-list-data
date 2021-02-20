@@ -1,15 +1,15 @@
 <http://spdx.org/licenses/Barr> <http://spdx.org/rdf/terms#standardLicenseTemplate> "This is a package of commutative diagram macros built on top of Xy-pic by Michael Barr (email: barr@barrs.org). Its use is unrestricted. It may be freely distributed, unchanged, for non-commercial or commercial use. If changed, it must be renamed. Inclusion in a commercial software package is also permitted, but I would appreciate receiving a free copy for my personal examination and use. There are no guarantees that this package is good for anything. I have tested it with LaTeX 2e, LaTeX 2.09 and Plain TeX. Although I know of no reason it will not work with AMSTeX, I have not tested it." .
 <http://spdx.org/licenses/Barr> <http://spdx.org/rdf/terms#licenseText> "This is a package of commutative diagram macros built on top of Xy-pic  by Michael Barr (email: barr@barrs.org). Its use is unrestricted. It  may be freely distributed, unchanged, for non-commercial or commercial  use. If changed, it must be renamed. Inclusion in a commercial  software package is also permitted, but I would appreciate receiving a  free copy for my personal examination and use. There are no guarantees  that this package is good for anything. I have tested it with LaTeX 2e,  LaTeX 2.09 and Plain TeX. Although I know of no reason it will not work  with AMSTeX, I have not tested it.\n" .
-<http://spdx.org/licenses/Barr> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Baa5fe6cbX2D6aaeX2D420fX2D8f85X2Dc33331c1862c .
+<http://spdx.org/licenses/Barr> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Be7bc5ef4X2Df762X2D4b96X2D8536X2De0869cd164ed .
 <http://spdx.org/licenses/Barr> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://fedoraproject.org/wiki/Licensing/Barr" .
 <http://spdx.org/licenses/Barr> <http://spdx.org/rdf/terms#name> "Barr License" .
 <http://spdx.org/licenses/Barr> <http://spdx.org/rdf/terms#licenseId> "Barr" .
 <http://spdx.org/licenses/Barr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#License> .
-_:Baa5fe6cbX2D6aaeX2D420fX2D8f85X2Dc33331c1862c <http://spdx.org/rdf/terms#order> "0" .
-_:Baa5fe6cbX2D6aaeX2D420fX2D8f85X2Dc33331c1862c <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 06:14:51" .
-_:Baa5fe6cbX2D6aaeX2D420fX2D8f85X2Dc33331c1862c <http://spdx.org/rdf/terms#match> "false" .
-_:Baa5fe6cbX2D6aaeX2D420fX2D8f85X2Dc33331c1862c <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:Baa5fe6cbX2D6aaeX2D420fX2D8f85X2Dc33331c1862c <http://spdx.org/rdf/terms#isLive> "true" .
-_:Baa5fe6cbX2D6aaeX2D420fX2D8f85X2Dc33331c1862c <http://spdx.org/rdf/terms#isValid> "true" .
-_:Baa5fe6cbX2D6aaeX2D420fX2D8f85X2Dc33331c1862c <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/Barr" .
-_:Baa5fe6cbX2D6aaeX2D420fX2D8f85X2Dc33331c1862c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Be7bc5ef4X2Df762X2D4b96X2D8536X2De0869cd164ed <http://spdx.org/rdf/terms#order> "0" .
+_:Be7bc5ef4X2Df762X2D4b96X2D8536X2De0869cd164ed <http://spdx.org/rdf/terms#timestamp> "2021-02-20 - 22:13:13" .
+_:Be7bc5ef4X2Df762X2D4b96X2D8536X2De0869cd164ed <http://spdx.org/rdf/terms#match> "false" .
+_:Be7bc5ef4X2Df762X2D4b96X2D8536X2De0869cd164ed <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:Be7bc5ef4X2Df762X2D4b96X2D8536X2De0869cd164ed <http://spdx.org/rdf/terms#isLive> "true" .
+_:Be7bc5ef4X2Df762X2D4b96X2D8536X2De0869cd164ed <http://spdx.org/rdf/terms#isValid> "true" .
+_:Be7bc5ef4X2Df762X2D4b96X2D8536X2De0869cd164ed <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/Barr" .
+_:Be7bc5ef4X2Df762X2D4b96X2D8536X2De0869cd164ed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

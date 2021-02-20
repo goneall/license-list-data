@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 06:19:50" ;
+                                        spdx:timestamp      "2021-02-20 - 22:17:52" ;
                                         spdx:url            "https://opensource.org/licenses/Naumen"
                                       ] ;
         rdfs:seeAlso                  "https://opensource.org/licenses/Naumen" ;

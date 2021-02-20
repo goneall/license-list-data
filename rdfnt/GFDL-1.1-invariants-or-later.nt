@@ -1,5 +1,4 @@
 <http://spdx.org/licenses/GFDL-1.1-invariants-or-later> <http://spdx.org/rdf/terms#standardLicenseHeader> "Copyright (c) YEAR YOUR NAME . Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.1 or any later version published by the Free Software Foundation; with the Invariant Sections being LIST THEIR TITLES , with the Front-Cover Texts being LIST , and with the Back-Cover Texts being LIST . A copy of the license is included in the section entitled \"GNU Free Documentation License\"." .
-<http://spdx.org/licenses/GFDL-1.1-invariants-or-later> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B39a8a428X2D8aa0X2D4a0bX2D8eacX2De318880c5608 .
 <http://spdx.org/licenses/GFDL-1.1-invariants-or-later> <http://spdx.org/rdf/terms#name> "GNU Free Documentation License v1.1 or later - invariants" .
 <http://spdx.org/licenses/GFDL-1.1-invariants-or-later> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt" .
 <http://spdx.org/licenses/GFDL-1.1-invariants-or-later> <http://spdx.org/rdf/terms#licenseId> "GFDL-1.1-invariants-or-later" .
@@ -8,11 +7,12 @@
 <http://spdx.org/licenses/GFDL-1.1-invariants-or-later> <http://spdx.org/rdf/terms#standardLicenseHeaderTemplate> "Copyright (c) <<var;name=\"copyright\";original=\"YEAR YOUR NAME\";match=\".+\">> . Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.1 or any later version published by the Free Software Foundation; with <<var;name=\"invariantSections\";original=\"the Invariant Sections being LIST THEIR TITLES\";match=\"the Invariant Sections       being .+|no Invariant Sections\">> , with <<var;name=\"frontCoverTexts\";original=\"the Front-Cover Texts being LIST\";match=\"the Front-Cover Texts being .+|no Front-Cover Texts\">> , and with <<var;name=\"backCoverTexts\";original=\"the Back-Cover Texts being LIST\";match=\"the Back-Cover Texts being .+|no Back-Cover Texts\">> . A copy of the license is included in the section entitled \"GNU Free Documentation License\"." .
 <http://spdx.org/licenses/GFDL-1.1-invariants-or-later> <http://www.w3.org/2000/01/rdf-schema#comment> "This license was released March 2000. The identifier GFDL-1.1-or-later-invariants should only be used when there are Invariant Sections, Front-Cover Texts or Back-Cover Texts. See GFDL-1.1-or-later and GFDL-1.1-or-later-no-invariants for alternatives." .
 <http://spdx.org/licenses/GFDL-1.1-invariants-or-later> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#License> .
-_:B39a8a428X2D8aa0X2D4a0bX2D8eacX2De318880c5608 <http://spdx.org/rdf/terms#order> "0" .
-_:B39a8a428X2D8aa0X2D4a0bX2D8eacX2De318880c5608 <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 06:12:48" .
-_:B39a8a428X2D8aa0X2D4a0bX2D8eacX2De318880c5608 <http://spdx.org/rdf/terms#match> "false" .
-_:B39a8a428X2D8aa0X2D4a0bX2D8eacX2De318880c5608 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:B39a8a428X2D8aa0X2D4a0bX2D8eacX2De318880c5608 <http://spdx.org/rdf/terms#isLive> "true" .
-_:B39a8a428X2D8aa0X2D4a0bX2D8eacX2De318880c5608 <http://spdx.org/rdf/terms#isValid> "true" .
-_:B39a8a428X2D8aa0X2D4a0bX2D8eacX2De318880c5608 <http://spdx.org/rdf/terms#url> "https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt" .
-_:B39a8a428X2D8aa0X2D4a0bX2D8eacX2De318880c5608 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/GFDL-1.1-invariants-or-later> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Be3cdf19bX2D9237X2D4e7dX2D9909X2D6f64d9b0c394 .
+_:Be3cdf19bX2D9237X2D4e7dX2D9909X2D6f64d9b0c394 <http://spdx.org/rdf/terms#order> "0" .
+_:Be3cdf19bX2D9237X2D4e7dX2D9909X2D6f64d9b0c394 <http://spdx.org/rdf/terms#timestamp> "2021-02-20 - 22:11:20" .
+_:Be3cdf19bX2D9237X2D4e7dX2D9909X2D6f64d9b0c394 <http://spdx.org/rdf/terms#match> "false" .
+_:Be3cdf19bX2D9237X2D4e7dX2D9909X2D6f64d9b0c394 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:Be3cdf19bX2D9237X2D4e7dX2D9909X2D6f64d9b0c394 <http://spdx.org/rdf/terms#isLive> "true" .
+_:Be3cdf19bX2D9237X2D4e7dX2D9909X2D6f64d9b0c394 <http://spdx.org/rdf/terms#isValid> "true" .
+_:Be3cdf19bX2D9237X2D4e7dX2D9909X2D6f64d9b0c394 <http://spdx.org/rdf/terms#url> "https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt" .
+_:Be3cdf19bX2D9237X2D4e7dX2D9909X2D6f64d9b0c394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

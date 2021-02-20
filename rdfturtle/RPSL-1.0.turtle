@@ -11,16 +11,16 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "1" ;
-                                        spdx:timestamp      "2021-02-19 - 06:13:07" ;
+                                        spdx:timestamp      "2021-02-20 - 22:11:30" ;
                                         spdx:url            "https://opensource.org/licenses/RPSL-1.0"
                                       ] ;
         rdfs:crossRef                 [ a                   spdx:CrossRef ;
                                         spdx:isLive         "false" ;
                                         spdx:isValid        "true" ;
                                         spdx:isWayBackLink  "false" ;
-                                        spdx:match          "--" ;
+                                        spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 06:13:07" ;
+                                        spdx:timestamp      "2021-02-20 - 22:11:28" ;
                                         spdx:url            "https://helixcommunity.org/content/rpsl"
                                       ] ;
         rdfs:seeAlso                  "https://helixcommunity.org/content/rpsl" , "https://opensource.org/licenses/RPSL-1.0" ;

@@ -6,11 +6,10 @@
   <spdx:License rdf:about="http://spdx.org/licenses/LGPL-3.0-only">
     <spdx:isFsfLibre>true</spdx:isFsfLibre>
     <rdfs:seeAlso>https://opensource.org/licenses/LGPL-3.0</rdfs:seeAlso>
-    <rdfs:seeAlso>https://www.gnu.org/licenses/lgpl-3.0-standalone.html</rdfs:seeAlso>
     <rdfs:crossRef>
       <spdx:CrossRef>
         <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:14:46</spdx:timestamp>
+        <spdx:timestamp>2021-02-20 - 22:13:08</spdx:timestamp>
         <spdx:match>true</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>
@@ -18,6 +17,7 @@
         <spdx:url>https://opensource.org/licenses/LGPL-3.0</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
+    <rdfs:seeAlso>https://www.gnu.org/licenses/lgpl-3.0-standalone.html</rdfs:seeAlso>
     <spdx:licenseId>LGPL-3.0-only</spdx:licenseId>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; GNU LESSER GENERAL PUBLIC LICENSE
 
@@ -186,7 +186,7 @@ apply, that proxy's public statement of acceptance of any version is permanent a
     <rdfs:crossRef>
       <spdx:CrossRef>
         <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:14:46</spdx:timestamp>
+        <spdx:timestamp>2021-02-20 - 22:13:08</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>true</spdx:isLive>

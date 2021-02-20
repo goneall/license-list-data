@@ -1,26 +1,26 @@
-_:B924b1a83X2D9d01X2D4209X2D950cX2D86f40ecb261c <http://spdx.org/rdf/terms#order> "1" .
-_:B924b1a83X2D9d01X2D4209X2D950cX2D86f40ecb261c <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 06:17:08" .
-_:B924b1a83X2D9d01X2D4209X2D950cX2D86f40ecb261c <http://spdx.org/rdf/terms#match> "false" .
-_:B924b1a83X2D9d01X2D4209X2D950cX2D86f40ecb261c <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:B924b1a83X2D9d01X2D4209X2D950cX2D86f40ecb261c <http://spdx.org/rdf/terms#isLive> "true" .
-_:B924b1a83X2D9d01X2D4209X2D950cX2D86f40ecb261c <http://spdx.org/rdf/terms#isValid> "true" .
-_:B924b1a83X2D9d01X2D4209X2D950cX2D86f40ecb261c <http://spdx.org/rdf/terms#url> "https://opensource.org/licenses/PostgreSQL" .
-_:B924b1a83X2D9d01X2D4209X2D950cX2D86f40ecb261c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:B9b77f92bX2D75c8X2D401dX2D93acX2Df56991b5cb9c <http://spdx.org/rdf/terms#order> "0" .
-_:B9b77f92bX2D75c8X2D401dX2D93acX2Df56991b5cb9c <http://spdx.org/rdf/terms#timestamp> "2021-02-19 - 06:17:08" .
-_:B9b77f92bX2D75c8X2D401dX2D93acX2Df56991b5cb9c <http://spdx.org/rdf/terms#match> "false" .
-_:B9b77f92bX2D75c8X2D401dX2D93acX2Df56991b5cb9c <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:B9b77f92bX2D75c8X2D401dX2D93acX2Df56991b5cb9c <http://spdx.org/rdf/terms#isLive> "false" .
-_:B9b77f92bX2D75c8X2D401dX2D93acX2Df56991b5cb9c <http://spdx.org/rdf/terms#isValid> "true" .
-_:B9b77f92bX2D75c8X2D401dX2D93acX2Df56991b5cb9c <http://spdx.org/rdf/terms#url> "http://www.postgresql.org/about/licence" .
-_:B9b77f92bX2D75c8X2D401dX2D93acX2Df56991b5cb9c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B081ee16bX2D4250X2D4e54X2Da47cX2Da9ba3586fa0b <http://spdx.org/rdf/terms#order> "1" .
+_:B081ee16bX2D4250X2D4e54X2Da47cX2Da9ba3586fa0b <http://spdx.org/rdf/terms#timestamp> "2021-02-20 - 22:15:21" .
+_:B081ee16bX2D4250X2D4e54X2Da47cX2Da9ba3586fa0b <http://spdx.org/rdf/terms#match> "false" .
+_:B081ee16bX2D4250X2D4e54X2Da47cX2Da9ba3586fa0b <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:B081ee16bX2D4250X2D4e54X2Da47cX2Da9ba3586fa0b <http://spdx.org/rdf/terms#isLive> "true" .
+_:B081ee16bX2D4250X2D4e54X2Da47cX2Da9ba3586fa0b <http://spdx.org/rdf/terms#isValid> "true" .
+_:B081ee16bX2D4250X2D4e54X2Da47cX2Da9ba3586fa0b <http://spdx.org/rdf/terms#url> "https://opensource.org/licenses/PostgreSQL" .
+_:B081ee16bX2D4250X2D4e54X2Da47cX2Da9ba3586fa0b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/PostgreSQL> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://www.postgresql.org/about/licence" .
 <http://spdx.org/licenses/PostgreSQL> <http://spdx.org/rdf/terms#licenseId> "PostgreSQL" .
-<http://spdx.org/licenses/PostgreSQL> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B9b77f92bX2D75c8X2D401dX2D93acX2Df56991b5cb9c .
 <http://spdx.org/licenses/PostgreSQL> <http://spdx.org/rdf/terms#name> "PostgreSQL License" .
 <http://spdx.org/licenses/PostgreSQL> <http://spdx.org/rdf/terms#isOsiApproved> "true" .
 <http://spdx.org/licenses/PostgreSQL> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://opensource.org/licenses/PostgreSQL" .
-<http://spdx.org/licenses/PostgreSQL> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B924b1a83X2D9d01X2D4209X2D950cX2D86f40ecb261c .
 <http://spdx.org/licenses/PostgreSQL> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<beginOptional>> PostgreSQL Database Management System\n\n(formerly known as Postgres, then as Postgres95)<<endOptional>> <<var;name=\"copyright\";original=\"Portions Copyright (c) 1996-2010, The PostgreSQL Global Development Group\n\nPortions Copyright (c) 1994, The Regents of the University of California\";match=\".{0,1000}\">>\n\nPermission to use, copy, modify, and distribute this software and its documentation for any purpose, without fee, and without a written agreement is hereby granted, provided that the above copyright notice and this paragraph and the following two paragraphs appear in all copies.\n\nIN NO EVENT SHALL <<var;name=\"copyrightHolderLiability\";original=\"THE UNIVERSITY OF CALIFORNIA\";match=\".+\">> BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF <<var;name=\"copyrightHolderAdvised\";original=\"THE UNIVERSITY OF CALIFORNIA\";match=\".+\">> HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n<<var;name=\"copyrightHolderDisclaims\";original=\"THE UNIVERSITY OF CALIFORNIA\";match=\".+\">> SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE PROVIDED HEREUNDER IS ON AN \"AS IS\" BASIS, AND <<var;name=\"copyrightHolderAsIs\";original=\"THE UNIVERSITY OF CALIFORNIA\";match=\".+\">> HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS." .
 <http://spdx.org/licenses/PostgreSQL> <http://spdx.org/rdf/terms#licenseText> "PostgreSQL Database Management System\n(formerly known as Postgres, then as Postgres95)\n\nPortions Copyright (c) 1996-2010, The PostgreSQL Global Development Group\n\nPortions Copyright (c) 1994, The Regents of the University of California\n\nPermission to use, copy, modify, and distribute this software and its documentation for any purpose, without fee, and without a written agreement is hereby granted, provided that the above copyright notice and this paragraph and the following two paragraphs appear in all copies.\n\nIN NO EVENT SHALL THE UNIVERSITY OF CALIFORNIA BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF THE UNIVERSITY OF CALIFORNIA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\nTHE UNIVERSITY OF CALIFORNIA SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE PROVIDED HEREUNDER IS ON AN \"AS IS\" BASIS, AND THE UNIVERSITY OF CALIFORNIA HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.\n" .
+<http://spdx.org/licenses/PostgreSQL> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B189d7befX2D883fX2D403dX2D919fX2De9cec046fc44 .
 <http://spdx.org/licenses/PostgreSQL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#License> .
+<http://spdx.org/licenses/PostgreSQL> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B081ee16bX2D4250X2D4e54X2Da47cX2Da9ba3586fa0b .
+_:B189d7befX2D883fX2D403dX2D919fX2De9cec046fc44 <http://spdx.org/rdf/terms#order> "0" .
+_:B189d7befX2D883fX2D403dX2D919fX2De9cec046fc44 <http://spdx.org/rdf/terms#timestamp> "2021-02-20 - 22:15:20" .
+_:B189d7befX2D883fX2D403dX2D919fX2De9cec046fc44 <http://spdx.org/rdf/terms#match> "false" .
+_:B189d7befX2D883fX2D403dX2D919fX2De9cec046fc44 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:B189d7befX2D883fX2D403dX2D919fX2De9cec046fc44 <http://spdx.org/rdf/terms#isLive> "false" .
+_:B189d7befX2D883fX2D403dX2D919fX2De9cec046fc44 <http://spdx.org/rdf/terms#isValid> "true" .
+_:B189d7befX2D883fX2D403dX2D919fX2De9cec046fc44 <http://spdx.org/rdf/terms#url> "http://www.postgresql.org/about/licence" .
+_:B189d7befX2D883fX2D403dX2D919fX2De9cec046fc44 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

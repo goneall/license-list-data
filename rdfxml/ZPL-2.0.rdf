@@ -4,6 +4,17 @@
     xmlns:doap="http://usefulinc.com/ns/doap#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:License rdf:about="http://spdx.org/licenses/ZPL-2.0">
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>1</spdx:order>
+        <spdx:timestamp>2021-02-20 - 22:15:03</spdx:timestamp>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://opensource.org/licenses/ZPL-2.0</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; Zope Public License (ZPL) Version 2.0&lt;&lt;endOptional&gt;&gt; &lt;&lt;var;name="copyright";original="This software is Copyright (c) Zope Corporation (tm) and Contributors. All rights reserved.";match=".{0,1000}"&gt;&gt;&lt;&lt;beginOptional&gt;&gt; This license has been certified as open source. It has also been designated as GPL compatible by the Free Software Foundation (FSF).&lt;&lt;endOptional&gt;&gt;
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -49,27 +60,16 @@ This software consists of contributions made by Zope Corporation and many indivi
 </spdx:licenseText>
     <spdx:licenseId>ZPL-2.0</spdx:licenseId>
     <spdx:isOsiApproved>true</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://opensource.org/licenses/ZPL-2.0</rdfs:seeAlso>
     <rdfs:crossRef>
       <spdx:CrossRef>
         <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:16:48</spdx:timestamp>
+        <spdx:timestamp>2021-02-20 - 22:15:03</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
         <spdx:isLive>false</spdx:isLive>
         <spdx:isValid>true</spdx:isValid>
         <spdx:url>http://old.zope.org/Resources/License/ZPL-2.0</spdx:url>
-      </spdx:CrossRef>
-    </rdfs:crossRef>
-    <rdfs:seeAlso>https://opensource.org/licenses/ZPL-2.0</rdfs:seeAlso>
-    <rdfs:crossRef>
-      <spdx:CrossRef>
-        <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:16:49</spdx:timestamp>
-        <spdx:match>true</spdx:match>
-        <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
-        <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://opensource.org/licenses/ZPL-2.0</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
     <spdx:isFsfLibre>true</spdx:isFsfLibre>

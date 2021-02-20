@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 06:13:06" ;
+                                        spdx:timestamp      "2021-02-20 - 22:11:37" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/Abstyles"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/Abstyles" ;

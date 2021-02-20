@@ -213,13 +213,13 @@ This Source Code Form is "Incompatible With Secondary Licenses", as defined by t
     <rdfs:seeAlso>http://www.osetfoundation.org/public-license</rdfs:seeAlso>
     <rdfs:crossRef>
       <spdx:CrossRef>
-        <spdx:order>0</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:14:56</spdx:timestamp>
+        <spdx:order>1</spdx:order>
+        <spdx:timestamp>2021-02-20 - 22:13:17</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>false</spdx:isLive>
+        <spdx:isLive>true</spdx:isLive>
         <spdx:isValid>true</spdx:isValid>
-        <spdx:url>http://www.osetfoundation.org/public-license</spdx:url>
+        <spdx:url>https://opensource.org/licenses/OPL-2.1</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
     <spdx:licenseId>OSET-PL-2.1</spdx:licenseId>
@@ -389,13 +389,13 @@ This Source Code Form is “Incompatible With Secondary Licenses”, as defined 
 </spdx:licenseText>
     <rdfs:crossRef>
       <spdx:CrossRef>
-        <spdx:order>1</spdx:order>
-        <spdx:timestamp>2021-02-19 - 06:14:57</spdx:timestamp>
+        <spdx:order>0</spdx:order>
+        <spdx:timestamp>2021-02-20 - 22:13:16</spdx:timestamp>
         <spdx:match>false</spdx:match>
         <spdx:isWayBackLink>false</spdx:isWayBackLink>
-        <spdx:isLive>true</spdx:isLive>
+        <spdx:isLive>false</spdx:isLive>
         <spdx:isValid>true</spdx:isValid>
-        <spdx:url>https://opensource.org/licenses/OPL-2.1</spdx:url>
+        <spdx:url>http://www.osetfoundation.org/public-license</spdx:url>
       </spdx:CrossRef>
     </rdfs:crossRef>
   </spdx:License>

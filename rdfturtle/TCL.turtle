@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "1" ;
-                                        spdx:timestamp      "2021-02-19 - 06:15:06" ;
+                                        spdx:timestamp      "2021-02-20 - 22:13:26" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/TCL"
                                       ] ;
         rdfs:crossRef                 [ a                   spdx:CrossRef ;
@@ -20,7 +20,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "false" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 06:15:05" ;
+                                        spdx:timestamp      "2021-02-20 - 22:13:25" ;
                                         spdx:url            "http://www.tcl.tk/software/tcltk/license.html"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/TCL" , "http://www.tcl.tk/software/tcltk/license.html" ;

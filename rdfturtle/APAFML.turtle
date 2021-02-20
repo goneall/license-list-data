@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 06:18:01" ;
+                                        spdx:timestamp      "2021-02-20 - 22:16:11" ;
                                         spdx:url            "https://fedoraproject.org/wiki/Licensing/AdobePostscriptAFM"
                                       ] ;
         rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/AdobePostscriptAFM" ;

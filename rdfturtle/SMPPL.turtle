@@ -11,7 +11,7 @@
                                         spdx:isWayBackLink  "false" ;
                                         spdx:match          "true" ;
                                         spdx:order          "0" ;
-                                        spdx:timestamp      "2021-02-19 - 06:15:03" ;
+                                        spdx:timestamp      "2021-02-20 - 22:13:23" ;
                                         spdx:url            "https://github.com/dcblake/SMP/blob/master/Documentation/License.txt"
                                       ] ;
         rdfs:seeAlso                  "https://github.com/dcblake/SMP/blob/master/Documentation/License.txt" ;
