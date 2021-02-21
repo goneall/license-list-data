@@ -1,0 +1,21 @@
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix doap:  <http://usefulinc.com/ns/doap#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://spdx.org/licenses/dvipdfm>
+        a                             spdx:License ;
+        rdfs:crossRef                 [ a                   spdx:CrossRef ;
+                                        spdx:isLive         "true" ;
+                                        spdx:isValid        "true" ;
+                                        spdx:isWayBackLink  "false" ;
+                                        spdx:match          "false" ;
+                                        spdx:order          "0" ;
+                                        spdx:timestamp      "2021-02-21 - 06:53:26" ;
+                                        spdx:url            "https://fedoraproject.org/wiki/Licensing/dvipdfm"
+                                      ] ;
+        rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/dvipdfm" ;
+        spdx:licenseId                "dvipdfm" ;
+        spdx:licenseText              "A modified version of this file may be distributed, but it should be distributed with a *different* name. Changed files must be distributed *together with a complete and unchanged* distribution of these files.\n" ;
+        spdx:name                     "dvipdfm License" ;
+        spdx:standardLicenseTemplate  "A modified version of this file may be distributed, but it should be distributed with a *different* name. Changed files must be distributed *together with a complete and unchanged* distribution of these files." .

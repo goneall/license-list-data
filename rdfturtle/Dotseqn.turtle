@@ -1,0 +1,21 @@
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix doap:  <http://usefulinc.com/ns/doap#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://spdx.org/licenses/Dotseqn>
+        a                             spdx:License ;
+        rdfs:crossRef                 [ a                   spdx:CrossRef ;
+                                        spdx:isLive         "true" ;
+                                        spdx:isValid        "true" ;
+                                        spdx:isWayBackLink  "false" ;
+                                        spdx:match          "false" ;
+                                        spdx:order          "0" ;
+                                        spdx:timestamp      "2021-02-21 - 06:51:26" ;
+                                        spdx:url            "https://fedoraproject.org/wiki/Licensing/Dotseqn"
+                                      ] ;
+        rdfs:seeAlso                  "https://fedoraproject.org/wiki/Licensing/Dotseqn" ;
+        spdx:licenseId                "Dotseqn" ;
+        spdx:licenseText              "Copyright (C) 1995 by Donald Arseneau\n\nThis file may be freely transmitted and reproduced, but it may not be changed unless the name is changed also (except that you may freely change the paper-size option for \\documentclass).\n\nThis notice must be left intact.\n" ;
+        spdx:name                     "Dotseqn License" ;
+        spdx:standardLicenseTemplate  "<<var;name=\"copyright\";original=\"Copyright (C) 1995 by Donald Arseneau\";match=\".{0,1000}\">>\n\nThis file may be freely transmitted and reproduced, but it may not be changed unless the name is changed also (except that you may freely change the paper-size option for \\documentclass).\n\nThis notice must be left intact." .

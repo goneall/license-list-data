@@ -1,15 +1,15 @@
-_:Bdf350b34X2Dc62cX2D4eb3X2Da785X2Ddad8f58dd0cc <http://spdx.org/rdf/terms#order> "0" .
-_:Bdf350b34X2Dc62cX2D4eb3X2Da785X2Ddad8f58dd0cc <http://spdx.org/rdf/terms#timestamp> "2021-02-21 - 06:42:28" .
-_:Bdf350b34X2Dc62cX2D4eb3X2Da785X2Ddad8f58dd0cc <http://spdx.org/rdf/terms#match> "true" .
-_:Bdf350b34X2Dc62cX2D4eb3X2Da785X2Ddad8f58dd0cc <http://spdx.org/rdf/terms#isWayBackLink> "false" .
-_:Bdf350b34X2Dc62cX2D4eb3X2Da785X2Ddad8f58dd0cc <http://spdx.org/rdf/terms#isLive> "true" .
-_:Bdf350b34X2Dc62cX2D4eb3X2Da785X2Ddad8f58dd0cc <http://spdx.org/rdf/terms#isValid> "true" .
-_:Bdf350b34X2Dc62cX2D4eb3X2Da785X2Ddad8f58dd0cc <http://spdx.org/rdf/terms#url> "http://landley.net/toybox/license.html" .
-_:Bdf350b34X2Dc62cX2D4eb3X2Da785X2Ddad8f58dd0cc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bc5cc88fdX2D1782X2D4b59X2Db6eaX2D7da026b51ea7 <http://spdx.org/rdf/terms#order> "0" .
+_:Bc5cc88fdX2D1782X2D4b59X2Db6eaX2D7da026b51ea7 <http://spdx.org/rdf/terms#timestamp> "2021-02-21 - 06:56:01" .
+_:Bc5cc88fdX2D1782X2D4b59X2Db6eaX2D7da026b51ea7 <http://spdx.org/rdf/terms#match> "true" .
+_:Bc5cc88fdX2D1782X2D4b59X2Db6eaX2D7da026b51ea7 <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:Bc5cc88fdX2D1782X2D4b59X2Db6eaX2D7da026b51ea7 <http://spdx.org/rdf/terms#isLive> "true" .
+_:Bc5cc88fdX2D1782X2D4b59X2Db6eaX2D7da026b51ea7 <http://spdx.org/rdf/terms#isValid> "true" .
+_:Bc5cc88fdX2D1782X2D4b59X2Db6eaX2D7da026b51ea7 <http://spdx.org/rdf/terms#url> "http://landley.net/toybox/license.html" .
+_:Bc5cc88fdX2D1782X2D4b59X2Db6eaX2D7da026b51ea7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/0BSD> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Copyright (C) 2006 by Rob Landley <rob@landley.net>\";match=\".{0,1000}\">>\n\nPermission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE." .
 <http://spdx.org/licenses/0BSD> <http://spdx.org/rdf/terms#isOsiApproved> "true" .
 <http://spdx.org/licenses/0BSD> <http://spdx.org/rdf/terms#licenseText> "Copyright (C) 2006 by Rob Landley <rob@landley.net>\n\nPermission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.\n" .
-<http://spdx.org/licenses/0BSD> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bdf350b34X2Dc62cX2D4eb3X2Da785X2Ddad8f58dd0cc .
+<http://spdx.org/licenses/0BSD> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bc5cc88fdX2D1782X2D4b59X2Db6eaX2D7da026b51ea7 .
 <http://spdx.org/licenses/0BSD> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://landley.net/toybox/license.html" .
 <http://spdx.org/licenses/0BSD> <http://spdx.org/rdf/terms#name> "BSD Zero Clause License" .
 <http://spdx.org/licenses/0BSD> <http://spdx.org/rdf/terms#licenseId> "0BSD" .

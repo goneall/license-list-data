@@ -1,0 +1,36 @@
+_:B67227ca3X2Df43fX2D4f5fX2Dbb59X2De7c28eae505a <http://spdx.org/rdf/terms#order> "0" .
+_:B67227ca3X2Df43fX2D4f5fX2Dbb59X2De7c28eae505a <http://spdx.org/rdf/terms#timestamp> "2021-02-21 - 06:52:11" .
+_:B67227ca3X2Df43fX2D4f5fX2Dbb59X2De7c28eae505a <http://spdx.org/rdf/terms#match> "false" .
+_:B67227ca3X2Df43fX2D4f5fX2Dbb59X2De7c28eae505a <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:B67227ca3X2Df43fX2D4f5fX2Dbb59X2De7c28eae505a <http://spdx.org/rdf/terms#isLive> "true" .
+_:B67227ca3X2Df43fX2D4f5fX2Dbb59X2De7c28eae505a <http://spdx.org/rdf/terms#isValid> "true" .
+_:B67227ca3X2Df43fX2D4f5fX2Dbb59X2De7c28eae505a <http://spdx.org/rdf/terms#url> "https://github.com/openssh/openssh-portable/blob/1b11ea7c58cd5c59838b5fa574cd456d6047b2d4/pathnames.h" .
+_:B67227ca3X2Df43fX2D4f5fX2Dbb59X2De7c28eae505a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B6226fad0X2D8e70X2D48d3X2Da462X2D28135fd9c16d <http://spdx.org/rdf/terms#order> "1" .
+_:B6226fad0X2D8e70X2D48d3X2Da462X2D28135fd9c16d <http://spdx.org/rdf/terms#timestamp> "2021-02-21 - 06:52:11" .
+_:B6226fad0X2D8e70X2D48d3X2Da462X2D28135fd9c16d <http://spdx.org/rdf/terms#match> "false" .
+_:B6226fad0X2D8e70X2D48d3X2Da462X2D28135fd9c16d <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:B6226fad0X2D8e70X2D48d3X2Da462X2D28135fd9c16d <http://spdx.org/rdf/terms#isLive> "true" .
+_:B6226fad0X2D8e70X2D48d3X2Da462X2D28135fd9c16d <http://spdx.org/rdf/terms#isValid> "true" .
+_:B6226fad0X2D8e70X2D48d3X2Da462X2D28135fd9c16d <http://spdx.org/rdf/terms#url> "http://web.mit.edu/kolya/.f/root/athena.mit.edu/sipb.mit.edu/project/openssh/OldFiles/src/openssh-2.9.9p2/ssh-add.1" .
+_:B6226fad0X2D8e70X2D48d3X2Da462X2D28135fd9c16d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bc1306929X2D0951X2D488fX2D9093X2D647b1ddd259d <http://spdx.org/rdf/terms#order> "2" .
+_:Bc1306929X2D0951X2D488fX2D9093X2D647b1ddd259d <http://spdx.org/rdf/terms#timestamp> "2021-02-21 - 06:52:11" .
+_:Bc1306929X2D0951X2D488fX2D9093X2D647b1ddd259d <http://spdx.org/rdf/terms#match> "false" .
+_:Bc1306929X2D0951X2D488fX2D9093X2D647b1ddd259d <http://spdx.org/rdf/terms#isWayBackLink> "false" .
+_:Bc1306929X2D0951X2D488fX2D9093X2D647b1ddd259d <http://spdx.org/rdf/terms#isLive> "true" .
+_:Bc1306929X2D0951X2D488fX2D9093X2D647b1ddd259d <http://spdx.org/rdf/terms#isValid> "true" .
+_:Bc1306929X2D0951X2D488fX2D9093X2D647b1ddd259d <http://spdx.org/rdf/terms#url> "https://joinup.ec.europa.eu/svn/lesoll/trunk/italc/lib/src/dsa_key.cpp" .
+_:Bc1306929X2D0951X2D488fX2D9093X2D647b1ddd259d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/SSH-short> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B6226fad0X2D8e70X2D48d3X2Da462X2D28135fd9c16d .
+<http://spdx.org/licenses/SSH-short> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#License> .
+<http://spdx.org/licenses/SSH-short> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://web.mit.edu/kolya/.f/root/athena.mit.edu/sipb.mit.edu/project/openssh/OldFiles/src/openssh-2.9.9p2/ssh-add.1" .
+<http://spdx.org/licenses/SSH-short> <http://spdx.org/rdf/terms#licenseText> "As far as I am concerned, the code I have written for this software\ncan be used freely for any purpose.  Any derived versions of this\nsoftware must be clearly marked as such, and if the derived work is\nincompatible with the protocol description in the RFC file, it must be\ncalled by a name other than \"ssh\" or \"Secure Shell\".\n" .
+<http://spdx.org/licenses/SSH-short> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:B67227ca3X2Df43fX2D4f5fX2Dbb59X2De7c28eae505a .
+<http://spdx.org/licenses/SSH-short> <http://spdx.org/rdf/terms#name> "SSH short notice" .
+<http://spdx.org/licenses/SSH-short> <http://spdx.org/rdf/terms#licenseId> "SSH-short" .
+<http://spdx.org/licenses/SSH-short> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://github.com/openssh/openssh-portable/blob/1b11ea7c58cd5c59838b5fa574cd456d6047b2d4/pathnames.h" .
+<http://spdx.org/licenses/SSH-short> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://joinup.ec.europa.eu/svn/lesoll/trunk/italc/lib/src/dsa_key.cpp" .
+<http://spdx.org/licenses/SSH-short> <http://www.w3.org/2000/01/rdf-schema#comment> "This is short version of SSH-OpenSSH that appears in some files associated with the original SSH implementation." .
+<http://spdx.org/licenses/SSH-short> <http://www.w3.org/2000/01/rdf-schema#crossRef> _:Bc1306929X2D0951X2D488fX2D9093X2D647b1ddd259d .
+<http://spdx.org/licenses/SSH-short> <http://spdx.org/rdf/terms#standardLicenseTemplate> "As far as I am concerned, the code I have written for this software can be used freely for any purpose. Any derived versions of this software must be clearly marked as such, and if the derived work is incompatible with the protocol description in the RFC file, it must be called by a name other than \"ssh\" or \"Secure Shell\"." .

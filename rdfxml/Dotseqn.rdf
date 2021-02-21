@@ -1,0 +1,33 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:License rdf:about="http://spdx.org/licenses/Dotseqn">
+    <spdx:standardLicenseTemplate>&lt;&lt;var;name="copyright";original="Copyright (C) 1995 by Donald Arseneau";match=".{0,1000}"&gt;&gt;
+
+This file may be freely transmitted and reproduced, but it may not be changed unless the name is changed also (except that you may freely change the paper-size option for \documentclass).
+
+This notice must be left intact.</spdx:standardLicenseTemplate>
+    <spdx:licenseText>Copyright (C) 1995 by Donald Arseneau
+
+This file may be freely transmitted and reproduced, but it may not be changed unless the name is changed also (except that you may freely change the paper-size option for \documentclass).
+
+This notice must be left intact.
+</spdx:licenseText>
+    <rdfs:crossRef>
+      <spdx:CrossRef>
+        <spdx:order>0</spdx:order>
+        <spdx:timestamp>2021-02-21 - 06:51:26</spdx:timestamp>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink>false</spdx:isWayBackLink>
+        <spdx:isLive>true</spdx:isLive>
+        <spdx:isValid>true</spdx:isValid>
+        <spdx:url>https://fedoraproject.org/wiki/Licensing/Dotseqn</spdx:url>
+      </spdx:CrossRef>
+    </rdfs:crossRef>
+    <rdfs:seeAlso>https://fedoraproject.org/wiki/Licensing/Dotseqn</rdfs:seeAlso>
+    <spdx:name>Dotseqn License</spdx:name>
+    <spdx:licenseId>Dotseqn</spdx:licenseId>
+  </spdx:License>
+</rdf:RDF>
